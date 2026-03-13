@@ -1,0 +1,7790 @@
+{
+  "(HQ) Mansfield street": {
+    "lat": 24.8648308,
+    "lon": 67.0294183
+  },
+  "100 Feet Road": {
+    "lat": 24.8546842,
+    "lon": 67.0207055
+  },
+  "100 Quarters": {
+    "lat": 24.8835176,
+    "lon": 67.0422356
+  },
+  "13-D Bridge": {
+    "lat": 24.8555946,
+    "lon": 67.2111896
+  },
+  "19-D Mohajir camp": {
+    "lat": null,
+    "lon": null
+  },
+  "19-D Nai Abadi": {
+    "lat": 24.9170133,
+    "lon": 66.9626852
+  },
+  "19-D Qabrustan": {
+    "lat": 24.9464073,
+    "lon": 67.1076454
+  },
+  "19-D Saeedabad": {
+    "lat": 24.9115144,
+    "lon": 66.968816
+  },
+  "2-D Bus Stop": {
+    "lat": null,
+    "lon": null
+  },
+  "2Min Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "36-B Area": {
+    "lat": 24.937149,
+    "lon": 67.0876128
+  },
+  "5-A": {
+    "lat": 24.8546842,
+    "lon": 67.0207055
+  },
+  "5-B Area": {
+    "lat": 24.937149,
+    "lon": 67.0876128
+  },
+  "5-E": {
+    "lat": 24.8688628,
+    "lon": 67.0487719
+  },
+  "7 Day Hospital": {
+    "lat": null,
+    "lon": null
+  },
+  "7th Day Hospital": {
+    "lat": 24.8661719,
+    "lon": 67.0276214
+  },
+  "7th day hospital": {
+    "lat": 24.8661719,
+    "lon": 67.0276214
+  },
+  "89 Bus Stop": {
+    "lat": null,
+    "lon": null
+  },
+  "A.B biscuit factory": {
+    "lat": null,
+    "lon": null
+  },
+  "A.P.W.A College": {
+    "lat": null,
+    "lon": null
+  },
+  "A.P.W.A Girls College": {
+    "lat": null,
+    "lon": null
+  },
+  "A.P.W.A School": {
+    "lat": null,
+    "lon": null
+  },
+  "APWA Girls College": {
+    "lat": 24.8974121,
+    "lon": 67.0294056
+  },
+  "Abbasi Hospital": {
+    "lat": 24.92053,
+    "lon": 67.0297799
+  },
+  "Abbasi Shaheed Hospital": {
+    "lat": 24.92053,
+    "lon": 67.0297799
+  },
+  "Abbasi Sheed Hospital": {
+    "lat": null,
+    "lon": null
+  },
+  "Abbasi hospital": {
+    "lat": 24.92053,
+    "lon": 67.0297799
+  },
+  "Abbysinia": {
+    "lat": null,
+    "lon": null
+  },
+  "Abdoz Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Abdul Hameed Badayuni College": {
+    "lat": null,
+    "lon": null
+  },
+  "Abdullah Appartments": {
+    "lat": null,
+    "lon": null
+  },
+  "Abdullah Colege": {
+    "lat": null,
+    "lon": null
+  },
+  "Abdullah College": {
+    "lat": 24.8567435,
+    "lon": 66.9916686
+  },
+  "Abdullah Gabol Goth": {
+    "lat": 25.0320204,
+    "lon": 67.124965
+  },
+  "Abdullah Shah Gazi Mazar": {
+    "lat": null,
+    "lon": null
+  },
+  "Abdullah Shah Ghazi": {
+    "lat": 24.9287672,
+    "lon": 66.9791682
+  },
+  "Abdullah Shah Ghazi Mazar": {
+    "lat": null,
+    "lon": null
+  },
+  "Abdullah college": {
+    "lat": 24.8567435,
+    "lon": 66.9916686
+  },
+  "Abidabad": {
+    "lat": 24.914389,
+    "lon": 66.975639
+  },
+  "Abidabad Orangi": {
+    "lat": 24.9277653,
+    "lon": 66.9796671
+  },
+  "Abro Salt Works": {
+    "lat": null,
+    "lon": null
+  },
+  "Abul Hassan Isphahani Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Achanak Hotal": {
+    "lat": null,
+    "lon": null
+  },
+  "Ack Ack School": {
+    "lat": null,
+    "lon": null
+  },
+  "Adam Road": {
+    "lat": 24.8382175,
+    "lon": 67.038217
+  },
+  "Adamjee Road": {
+    "lat": 24.9401172,
+    "lon": 67.1142498
+  },
+  "Agha Khan Hospital": {
+    "lat": 24.866234,
+    "lon": 67.0249781
+  },
+  "Agha Khan Jamat Khana": {
+    "lat": 24.9131581,
+    "lon": 67.027236
+  },
+  "Agha Khan Road": {
+    "lat": 24.8692931,
+    "lon": 67.0226843
+  },
+  "Agha KhanRoad": {
+    "lat": null,
+    "lon": null
+  },
+  "Agha khan Road": {
+    "lat": 24.8692931,
+    "lon": 67.0226843
+  },
+  "Agha khan hospital": {
+    "lat": 24.866234,
+    "lon": 67.0249781
+  },
+  "Agra Taj": {
+    "lat": 24.8714202,
+    "lon": 66.9826114
+  },
+  "Agra Taj Colony": {
+    "lat": 24.8714202,
+    "lon": 66.9826114
+  },
+  "Agra taj Colony": {
+    "lat": 24.871593,
+    "lon": 66.9819781
+  },
+  "Agra taj hanif manzil": {
+    "lat": null,
+    "lon": null
+  },
+  "Agra taj moosa lane": {
+    "lat": null,
+    "lon": null
+  },
+  "Air Port": {
+    "lat": null,
+    "lon": null
+  },
+  "Airport": {
+    "lat": 24.8861183,
+    "lon": 67.1440848
+  },
+  "Aisha Manzil": {
+    "lat": 24.9255881,
+    "lon": 67.0656603
+  },
+  "Aisha manzil": {
+    "lat": 24.9255881,
+    "lon": 67.0656603
+  },
+  "Ajmer Palza": {
+    "lat": null,
+    "lon": null
+  },
+  "Akhtak Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Akhtar Colony": {
+    "lat": 24.8863237,
+    "lon": 66.9895196
+  },
+  "Akhter Colony": {
+    "lat": 24.8362205,
+    "lon": 67.0746864
+  },
+  "Akthar Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Akther Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Al ahmed Town": {
+    "lat": 24.9147271,
+    "lon": 67.1279221
+  },
+  "Al asif square sohrab goth": {
+    "lat": 24.9510215,
+    "lon": 67.0915684
+  },
+  "Al-Ahmed Town": {
+    "lat": 24.933121,
+    "lon": 67.049826
+  },
+  "Al-Asif Plaza": {
+    "lat": null,
+    "lon": null
+  },
+  "Al-Asif Square": {
+    "lat": 24.9510215,
+    "lon": 67.0915684
+  },
+  "Al-Azam Square": {
+    "lat": 24.91364,
+    "lon": 67.0520681
+  },
+  "Al-Azam Town": {
+    "lat": 24.8464347,
+    "lon": 67.0685709
+  },
+  "Al-Azam square": {
+    "lat": 24.91364,
+    "lon": 67.0520681
+  },
+  "Al-Hyderi": {
+    "lat": 24.9375922,
+    "lon": 67.0418997
+  },
+  "Al-Noor Gulberg": {
+    "lat": 24.9166287,
+    "lon": 67.0588339
+  },
+  "Al-Noor Society": {
+    "lat": 24.9948579,
+    "lon": 67.1089952
+  },
+  "Al-Noor Stop": {
+    "lat": null,
+    "lon": null
+  },
+  "Al-Shifa": {
+    "lat": 24.826204,
+    "lon": 66.9815855
+  },
+  "Al-majid school": {
+    "lat": null,
+    "lon": null
+  },
+  "Alamgir Road": {
+    "lat": 24.8795122,
+    "lon": 67.0715555
+  },
+  "Aliabad": {
+    "lat": 24.9203933,
+    "lon": 67.0636894
+  },
+  "Allah Wala Town": {
+    "lat": 24.8204525,
+    "lon": 67.1061302
+  },
+  "Allahwala Town": {
+    "lat": 24.8282033,
+    "lon": 67.1119669
+  },
+  "Allama Iqbal College": {
+    "lat": 24.8800329,
+    "lon": 67.1499058
+  },
+  "Allama Rashid Turabi Chowk 2": {
+    "lat": null,
+    "lon": null
+  },
+  "Allama Turabi Road": {
+    "lat": 24.9259883,
+    "lon": 67.0484889
+  },
+  "Allied Bank New Karachi Branch No. 5": {
+    "lat": null,
+    "lon": null
+  },
+  "Alnoor Society": {
+    "lat": 24.9450867,
+    "lon": 67.0412223
+  },
+  "Altaf Nagar": {
+    "lat": 24.8743092,
+    "lon": 67.0211553
+  },
+  "Ancholi": {
+    "lat": 24.9447754,
+    "lon": 67.0795328
+  },
+  "Angara Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Anglo Orient School": {
+    "lat": null,
+    "lon": null
+  },
+  "Aram Bagh": {
+    "lat": 24.8560412,
+    "lon": 67.0129337
+  },
+  "Aram bagh": {
+    "lat": 24.8560412,
+    "lon": 67.0129337
+  },
+  "Arts Concil": {
+    "lat": null,
+    "lon": null
+  },
+  "Asia mor": {
+    "lat": null,
+    "lon": null
+  },
+  "Asif Centre Super Highway": {
+    "lat": null,
+    "lon": null
+  },
+  "Asif Market": {
+    "lat": 24.9573476,
+    "lon": 67.202991
+  },
+  "Asif square": {
+    "lat": 24.9510215,
+    "lon": 67.0915684
+  },
+  "Askari Appartment": {
+    "lat": null,
+    "lon": null
+  },
+  "Asoo Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Asphalt": {
+    "lat": null,
+    "lon": null
+  },
+  "Asso Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Auliya Masjid": {
+    "lat": 24.8733225,
+    "lon": 67.059279
+  },
+  "Awami Goth": {
+    "lat": 24.9217958,
+    "lon": 67.1502004
+  },
+  "Ayub Goth": {
+    "lat": 24.9478873,
+    "lon": 67.131024
+  },
+  "Ayub Manzil": {
+    "lat": 24.9198976,
+    "lon": 67.0731208
+  },
+  "Aza": {
+    "lat": 24.9256502,
+    "lon": 67.1519547
+  },
+  "Azam Basti": {
+    "lat": 24.8481043,
+    "lon": 67.0746834
+  },
+  "Azeem Pure": {
+    "lat": null,
+    "lon": null
+  },
+  "Azimpura": {
+    "lat": null,
+    "lon": null
+  },
+  "Aziz Bhatti Park": {
+    "lat": 24.9126317,
+    "lon": 67.0945412
+  },
+  "Aziz Bhatti Shaheed Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Aziz Medical Centre": {
+    "lat": 24.8565688,
+    "lon": 67.1954664
+  },
+  "Aziz Mills": {
+    "lat": null,
+    "lon": null
+  },
+  "Azizabad": {
+    "lat": 24.9161647,
+    "lon": 67.0653569
+  },
+  "Azizabad Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "B-3 Mini Bus Stop": {
+    "lat": null,
+    "lon": null
+  },
+  "Baba-e-Urdu Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Baba-e-urdu": {
+    "lat": 24.9024963,
+    "lon": 67.0502744
+  },
+  "Baba-e-urdu Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Babar Market": {
+    "lat": 24.8586062,
+    "lon": 67.0038439
+  },
+  "Baber Market": {
+    "lat": null,
+    "lon": null
+  },
+  "Bacha Khan Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Bacha khan Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Bachoha Jail": {
+    "lat": null,
+    "lon": null
+  },
+  "Badar Chowk": {
+    "lat": 24.9355399,
+    "lon": 66.9927997
+  },
+  "Badar Chowk No 4": {
+    "lat": 24.9329617,
+    "lon": 66.9980435
+  },
+  "Badar Chowk No 5": {
+    "lat": 24.9329617,
+    "lon": 66.9980435
+  },
+  "Badar Hotel": {
+    "lat": null,
+    "lon": null
+  },
+  "Badhni Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Bagh-e-jinnah": {
+    "lat": 24.8496128,
+    "lon": 67.0229811
+  },
+  "Baghdadi": {
+    "lat": 24.8621739,
+    "lon": 66.9961779
+  },
+  "Baghdadi P.S Noorabad": {
+    "lat": null,
+    "lon": null
+  },
+  "Bahadurabad": {
+    "lat": 24.8823404,
+    "lon": 67.0674014
+  },
+  "Bakhari Bijara Bhatti": {
+    "lat": null,
+    "lon": null
+  },
+  "Bakrapidi": {
+    "lat": null,
+    "lon": null
+  },
+  "Bakrapiri": {
+    "lat": null,
+    "lon": null
+  },
+  "Bala Board": {
+    "lat": null,
+    "lon": null
+  },
+  "Balda Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Baldia": {
+    "lat": 24.9187786,
+    "lon": 66.9613949
+  },
+  "Baldia Colony": {
+    "lat": 24.9194279,
+    "lon": 66.9636693
+  },
+  "Baldia Colony No. 6": {
+    "lat": null,
+    "lon": null
+  },
+  "Baldia Colony No. 7": {
+    "lat": null,
+    "lon": null
+  },
+  "Baldia Town": {
+    "lat": 24.9187786,
+    "lon": 66.9613949
+  },
+  "Baldia shershah": {
+    "lat": null,
+    "lon": null
+  },
+  "Baloch Colony": {
+    "lat": 24.8324179,
+    "lon": 67.2457481
+  },
+  "Baloch Goth": {
+    "lat": 24.8578609,
+    "lon": 66.6858007
+  },
+  "Banarar Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Banaras": {
+    "lat": 24.9425872,
+    "lon": 67.0089316
+  },
+  "Banaras Chowk": {
+    "lat": 24.9325016,
+    "lon": 67.0153877
+  },
+  "Banaras Colony": {
+    "lat": 24.9432922,
+    "lon": 67.0024982
+  },
+  "Banaras Road": {
+    "lat": 24.9413543,
+    "lon": 67.0075686
+  },
+  "Bandar Road": {
+    "lat": 24.8748983,
+    "lon": 67.0369842
+  },
+  "Bander Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Bangali Oil mills": {
+    "lat": null,
+    "lon": null
+  },
+  "Bangali Para": {
+    "lat": 24.8875359,
+    "lon": 67.0651963
+  },
+  "Bank Qtrs": {
+    "lat": null,
+    "lon": null
+  },
+  "Bank Quarters": {
+    "lat": 24.8644699,
+    "lon": 67.0220677
+  },
+  "Baocha Jail": {
+    "lat": null,
+    "lon": null
+  },
+  "Bara Board": {
+    "lat": null,
+    "lon": null
+  },
+  "Bara Dari": {
+    "lat": 24.9296912,
+    "lon": 67.0799516
+  },
+  "Bara Maidan": {
+    "lat": 24.9161949,
+    "lon": 67.0217581
+  },
+  "Bara boar": {
+    "lat": null,
+    "lon": null
+  },
+  "Baradari": {
+    "lat": 24.9296791,
+    "lon": 67.080196
+  },
+  "Baramaidan": {
+    "lat": null,
+    "lon": null
+  },
+  "Barbar": {
+    "lat": 24.9174109,
+    "lon": 67.0670079
+  },
+  "Barness Street": {
+    "lat": null,
+    "lon": null
+  },
+  "Basti": {
+    "lat": 24.9243391,
+    "lon": 67.2485642
+  },
+  "Bath Island": {
+    "lat": 24.8352549,
+    "lon": 67.0281829
+  },
+  "Bawani textile mills": {
+    "lat": null,
+    "lon": null
+  },
+  "Bawany Ghali": {
+    "lat": null,
+    "lon": null
+  },
+  "Behar Colon": {
+    "lat": null,
+    "lon": null
+  },
+  "Behar Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Bengali Camp": {
+    "lat": null,
+    "lon": null
+  },
+  "Bhains Colony": {
+    "lat": 24.8240238,
+    "lon": 67.2629334
+  },
+  "Bhattai Colony": {
+    "lat": 24.8128492,
+    "lon": 67.1087055
+  },
+  "Bhatti Park": {
+    "lat": 24.9126317,
+    "lon": 67.0945412
+  },
+  "Bhawani Challi": {
+    "lat": null,
+    "lon": null
+  },
+  "Bhayani Heights": {
+    "lat": 24.950798,
+    "lon": 67.0520772
+  },
+  "Bhense Colo": {
+    "lat": null,
+    "lon": null
+  },
+  "Bhense Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "BhenseColony": {
+    "lat": null,
+    "lon": null
+  },
+  "Bhiroo Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Bhitai Colony": {
+    "lat": 24.8109765,
+    "lon": 67.1076653
+  },
+  "Bhitai Road": {
+    "lat": 25.0201379,
+    "lon": 67.1288489
+  },
+  "Bhittai Colony": {
+    "lat": 24.8168486,
+    "lon": 67.1078522
+  },
+  "Bihar Colony": {
+    "lat": 24.8854042,
+    "lon": 67.0484297
+  },
+  "Bilal Chowrangi": {
+    "lat": 24.8429546,
+    "lon": 67.1420418
+  },
+  "Bilal Chowrangi hospital": {
+    "lat": null,
+    "lon": null
+  },
+  "Bilal Colony": {
+    "lat": 24.8478476,
+    "lon": 67.1342808
+  },
+  "Bilal Pulia": {
+    "lat": null,
+    "lon": null
+  },
+  "Bilawal House": {
+    "lat": 24.8123188,
+    "lon": 67.0200174
+  },
+  "Biscuit Factory": {
+    "lat": null,
+    "lon": null
+  },
+  "Bismillah Hotel": {
+    "lat": 24.8816419,
+    "lon": 67.0991403
+  },
+  "Bismillah Stop": {
+    "lat": 24.832085,
+    "lon": 67.1444614
+  },
+  "Bismillah hotel": {
+    "lat": 24.8664136,
+    "lon": 67.0228977
+  },
+  "Bleak House Road": {
+    "lat": 24.8446227,
+    "lon": 67.0373914
+  },
+  "Bleak house Road": {
+    "lat": 24.8446227,
+    "lon": 67.0373914
+  },
+  "Blouton Market": {
+    "lat": null,
+    "lon": null
+  },
+  "Boad Basin": {
+    "lat": null,
+    "lon": null
+  },
+  "Boad Office": {
+    "lat": null,
+    "lon": null
+  },
+  "Board Basin": {
+    "lat": null,
+    "lon": null
+  },
+  "Board Office": {
+    "lat": 24.9128333,
+    "lon": 67.0455094
+  },
+  "Board office": {
+    "lat": 24.9128333,
+    "lon": 67.0455094
+  },
+  "Board office Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Boat Basin": {
+    "lat": 24.821449,
+    "lon": 67.0183042
+  },
+  "Boat Basin Chowragni": {
+    "lat": null,
+    "lon": null
+  },
+  "Bolton Market": {
+    "lat": 24.8523586,
+    "lon": 67.0022597
+  },
+  "Boulton Market": {
+    "lat": null,
+    "lon": null
+  },
+  "Bridge": {
+    "lat": 24.8555946,
+    "lon": 67.2111896
+  },
+  "Britte Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Buffallow Colony Landhi": {
+    "lat": null,
+    "lon": null
+  },
+  "Buffer Zone": {
+    "lat": 24.9552547,
+    "lon": 67.0670153
+  },
+  "Buffer Zone Sector 16-A": {
+    "lat": 24.9618053,
+    "lon": 67.0715893
+  },
+  "Bufferzone": {
+    "lat": 24.9576415,
+    "lon": 67.0733113
+  },
+  "Bughdadi Agra Taj": {
+    "lat": null,
+    "lon": null
+  },
+  "Bukhari Bijari Bhatti": {
+    "lat": null,
+    "lon": null
+  },
+  "Bund Murad Khan": {
+    "lat": null,
+    "lon": null
+  },
+  "Bundar Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Bunder Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Buns Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Burmi Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Burns Road": {
+    "lat": 24.8580783,
+    "lon": 67.015028
+  },
+  "Bus stop No 5": {
+    "lat": null,
+    "lon": null
+  },
+  "Buscuit Factory": {
+    "lat": null,
+    "lon": null
+  },
+  "C.M.H Picaddily Cinema Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "C.O.D Road": {
+    "lat": null,
+    "lon": null
+  },
+  "CLifton Casino": {
+    "lat": null,
+    "lon": null
+  },
+  "Cafe Liberty": {
+    "lat": null,
+    "lon": null
+  },
+  "Cafe Nawabad": {
+    "lat": 24.8586157,
+    "lon": 66.9914822
+  },
+  "Cafe liberty": {
+    "lat": null,
+    "lon": null
+  },
+  "Camra Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Cannt. Station": {
+    "lat": null,
+    "lon": null
+  },
+  "Cantt": {
+    "lat": 24.9519357,
+    "lon": 67.2262313
+  },
+  "Cantt Bazar": {
+    "lat": 24.9263658,
+    "lon": 67.2036763
+  },
+  "Cantt Post office": {
+    "lat": 24.8437136,
+    "lon": 67.037373
+  },
+  "Cantt Railway Station": {
+    "lat": 24.9519357,
+    "lon": 67.2262313
+  },
+  "Cantt Station": {
+    "lat": 24.9519357,
+    "lon": 67.2262313
+  },
+  "Cantt Station http://adiekhan.blogspot.com/2009/01/karachi-bus-routes_24.html": {
+    "lat": null,
+    "lon": null
+  },
+  "Cantt Stations": {
+    "lat": 24.9519357,
+    "lon": 67.2262313
+  },
+  "Cantt. Public School": {
+    "lat": 24.7998264,
+    "lon": 66.9657124
+  },
+  "Cantt. Station": {
+    "lat": 24.9519357,
+    "lon": 67.2262313
+  },
+  "Capri Cinema": {
+    "lat": 24.8682103,
+    "lon": 67.0289055
+  },
+  "Carela mor": {
+    "lat": null,
+    "lon": null
+  },
+  "Cattel Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Cattle Colony": {
+    "lat": 24.9141243,
+    "lon": 67.0735149
+  },
+  "Cement Factory": {
+    "lat": 24.9077425,
+    "lon": 67.0980091
+  },
+  "Ch. Khaliquzzaman Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Chaghi": {
+    "lat": null,
+    "lon": null
+  },
+  "Chakiwara": {
+    "lat": 24.8699001,
+    "lon": 66.999793
+  },
+  "Chakiwra": {
+    "lat": null,
+    "lon": null
+  },
+  "Chaliwara": {
+    "lat": null,
+    "lon": null
+  },
+  "Chaman Colony": {
+    "lat": 24.9350013,
+    "lon": 67.1406917
+  },
+  "Chamra Chourangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Chamra Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Chamra Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Chand Bibi Road": {
+    "lat": 24.8618739,
+    "lon": 67.0141098
+  },
+  "Chandbibi Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Chandni Chowk": {
+    "lat": 24.9215078,
+    "lon": 67.0214054
+  },
+  "Channasar Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Charai nala": {
+    "lat": null,
+    "lon": null
+  },
+  "Chaukandi": {
+    "lat": 24.8635508,
+    "lon": 67.2713543
+  },
+  "Chawal Godown": {
+    "lat": null,
+    "lon": null
+  },
+  "Cheelawala kothi khalid bin walid Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Cheta gate": {
+    "lat": null,
+    "lon": null
+  },
+  "Chiragh Hotel": {
+    "lat": 24.8370005,
+    "lon": 67.1801744
+  },
+  "Chisti Nagar": {
+    "lat": 24.9638468,
+    "lon": 66.9738928
+  },
+  "Chota Gate": {
+    "lat": null,
+    "lon": null
+  },
+  "Chota Maidan": {
+    "lat": null,
+    "lon": null
+  },
+  "Chowrangi No. 2": {
+    "lat": 24.8820534,
+    "lon": 67.1514074
+  },
+  "Chungi Naka": {
+    "lat": null,
+    "lon": null
+  },
+  "Cinema Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "City Court": {
+    "lat": 24.8559541,
+    "lon": 67.0057203
+  },
+  "City Garden": {
+    "lat": 25.0486743,
+    "lon": 67.1411718
+  },
+  "City P.O Burns Road": {
+    "lat": null,
+    "lon": null
+  },
+  "City Post Office": {
+    "lat": 24.8776783,
+    "lon": 67.1925024
+  },
+  "City Station": {
+    "lat": 24.7800202,
+    "lon": 67.0870139
+  },
+  "Civic Centre": {
+    "lat": null,
+    "lon": null
+  },
+  "Civil Hospital": {
+    "lat": 24.8593607,
+    "lon": 67.0103185
+  },
+  "Civil Lines": {
+    "lat": 24.844097,
+    "lon": 67.0334903
+  },
+  "Civil hospital": {
+    "lat": 24.8593607,
+    "lon": 67.0103185
+  },
+  "Clayton Road": {
+    "lat": 24.8763833,
+    "lon": 67.0330675
+  },
+  "Clifton": {
+    "lat": 24.8190552,
+    "lon": 67.0262397
+  },
+  "Clifton 26 street": {
+    "lat": 24.804047,
+    "lon": 67.0386922
+  },
+  "Clifton Bridge": {
+    "lat": 24.8404753,
+    "lon": 67.0327685
+  },
+  "Clifton Road": {
+    "lat": 24.8245283,
+    "lon": 67.0383318
+  },
+  "Clifton bridge": {
+    "lat": 24.8404753,
+    "lon": 67.0327685
+  },
+  "Coast Gard": {
+    "lat": null,
+    "lon": null
+  },
+  "Coast Guards": {
+    "lat": 24.8685349,
+    "lon": 67.0253111
+  },
+  "Coast guard": {
+    "lat": 24.868898,
+    "lon": 67.0258948
+  },
+  "College Chowrangi": {
+    "lat": 24.9480102,
+    "lon": 67.0403849
+  },
+  "Colony Gate": {
+    "lat": 24.88711,
+    "lon": 67.1501422
+  },
+  "Corongi Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Corporation": {
+    "lat": 24.8909405,
+    "lon": 67.0590738
+  },
+  "Corporation Gate": {
+    "lat": null,
+    "lon": null
+  },
+  "Cost Guard": {
+    "lat": null,
+    "lon": null
+  },
+  "Country club Road": {
+    "lat": 24.8322669,
+    "lon": 67.3461577
+  },
+  "Court Road": {
+    "lat": 24.857426,
+    "lon": 67.0191017
+  },
+  "Cowie Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Cross Frere Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Crown Cinema": {
+    "lat": 24.8641858,
+    "lon": 66.9864681
+  },
+  "Custom House": {
+    "lat": 24.8480911,
+    "lon": 66.992605
+  },
+  "Custom Road": {
+    "lat": 24.8480911,
+    "lon": 66.992605
+  },
+  "Custom house": {
+    "lat": 24.8483714,
+    "lon": 66.9924456
+  },
+  "D.C Office": {
+    "lat": null,
+    "lon": null
+  },
+  "D.K Mour": {
+    "lat": null,
+    "lon": null
+  },
+  "D.turn Kala school No 2": {
+    "lat": null,
+    "lon": null
+  },
+  "D.turn sindhi hotel": {
+    "lat": null,
+    "lon": null
+  },
+  "Dabba Colony": {
+    "lat": 24.9605668,
+    "lon": 66.9840721
+  },
+  "Dabba Mour": {
+    "lat": null,
+    "lon": null
+  },
+  "Dabba mor": {
+    "lat": null,
+    "lon": null
+  },
+  "Dada Bhai Nooroji Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Daily Jung Office": {
+    "lat": null,
+    "lon": null
+  },
+  "Daily Jung Ofice": {
+    "lat": null,
+    "lon": null
+  },
+  "Dairy Farm Model Colony": {
+    "lat": 24.8394175,
+    "lon": 67.2532666
+  },
+  "Dak Khana": {
+    "lat": 24.9001295,
+    "lon": 67.2094412
+  },
+  "Dak khana": {
+    "lat": 24.9001295,
+    "lon": 67.2094412
+  },
+  "Dalimia Cement Factory": {
+    "lat": null,
+    "lon": null
+  },
+  "Dalimia Cement Factory Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Dalimia cement factory Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Dalmia": {
+    "lat": 24.9077425,
+    "lon": 67.0980091
+  },
+  "Dalmia Cement Colony": {
+    "lat": 24.9077425,
+    "lon": 67.0980091
+  },
+  "Dalmia Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Dalmia cement factory": {
+    "lat": 24.9045726,
+    "lon": 67.1066776
+  },
+  "Damloti No. 3": {
+    "lat": null,
+    "lon": null
+  },
+  "Damloti No. 6": {
+    "lat": null,
+    "lon": null
+  },
+  "Dangerai Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Dar-ul-Ulum": {
+    "lat": 24.8726606,
+    "lon": 67.0459435
+  },
+  "Darakshan": {
+    "lat": 24.9897425,
+    "lon": 67.1254788
+  },
+  "Darsana Chana": {
+    "lat": null,
+    "lon": null
+  },
+  "Darul-uloom": {
+    "lat": 24.875718,
+    "lon": 67.1355602
+  },
+  "Daryabad": {
+    "lat": 24.8622485,
+    "lon": 66.9911979
+  },
+  "Dastagir": {
+    "lat": 24.9283092,
+    "lon": 67.0782597
+  },
+  "Dastagir Colony": {
+    "lat": 24.9222845,
+    "lon": 66.9793518
+  },
+  "Dastagir No. 16": {
+    "lat": 24.9283092,
+    "lon": 67.0782597
+  },
+  "Dastagir No. 9": {
+    "lat": 24.9283092,
+    "lon": 67.0782597
+  },
+  "Data Chowk Orangi Town": {
+    "lat": null,
+    "lon": null
+  },
+  "Dawood Chorangi": {
+    "lat": 24.8503838,
+    "lon": 67.2071912
+  },
+  "Dawood Chourangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Dawood Chowrangi": {
+    "lat": 24.850002,
+    "lon": 67.2073053
+  },
+  "Dawood Mills": {
+    "lat": 24.8415035,
+    "lon": 67.2169367
+  },
+  "Dawood Pota Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Defence": {
+    "lat": 24.8328496,
+    "lon": 67.0630248
+  },
+  "Defence More": {
+    "lat": null,
+    "lon": null
+  },
+  "Defence Mour": {
+    "lat": null,
+    "lon": null
+  },
+  "Defence Society": {
+    "lat": 24.933288,
+    "lon": 67.1779893
+  },
+  "Defence View": {
+    "lat": 24.83483,
+    "lon": 67.0760721
+  },
+  "Defence society": {
+    "lat": 24.933288,
+    "lon": 67.1779893
+  },
+  "Degree College": {
+    "lat": 24.9238689,
+    "lon": 67.2022581
+  },
+  "Dehangir Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Dehli Colony": {
+    "lat": 24.8319055,
+    "lon": 67.0431537
+  },
+  "Dehli Saudagar Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Dehli society": {
+    "lat": 24.9784878,
+    "lon": 67.1196603
+  },
+  "Delhi Colony": {
+    "lat": 24.8323033,
+    "lon": 67.0440311
+  },
+  "Denfence Mour": {
+    "lat": null,
+    "lon": null
+  },
+  "Dens Hall": {
+    "lat": null,
+    "lon": null
+  },
+  "Denso Hall": {
+    "lat": 24.8534466,
+    "lon": 67.0049098
+  },
+  "Dhabi Bux Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Dhani Bux Goth": {
+    "lat": 24.9232629,
+    "lon": 67.1556354
+  },
+  "Dhobi Ghat": {
+    "lat": 24.8764385,
+    "lon": 67.0120542
+  },
+  "Dhobi ghat": {
+    "lat": 24.8764385,
+    "lon": 67.0120542
+  },
+  "Dhoraji": {
+    "lat": 24.9375016,
+    "lon": 67.1752589
+  },
+  "Dhoraji Colony": {
+    "lat": 24.8872871,
+    "lon": 67.0770287
+  },
+  "Dhoraji Society": {
+    "lat": 24.9375016,
+    "lon": 67.1752589
+  },
+  "Dhoraji society": {
+    "lat": 24.9375016,
+    "lon": 67.1752589
+  },
+  "Direct Bunder Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Directorate Of School Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Dirigh Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Disco Bakery": {
+    "lat": 24.929117,
+    "lon": 67.097339
+  },
+  "Disco Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Disco Mor": {
+    "lat": null,
+    "lon": null
+  },
+  "Disco Mour": {
+    "lat": null,
+    "lon": null
+  },
+  "Disko Mour": {
+    "lat": null,
+    "lon": null
+  },
+  "Do Minute Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Dock Yard": {
+    "lat": 24.830125,
+    "lon": 67.2937025
+  },
+  "Dockyard": {
+    "lat": 24.8332995,
+    "lon": 66.9719249
+  },
+  "Doctor Dawood Pota Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Dond Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Dowood Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Dowood Pota Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Dowwd Pota Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Dr": {
+    "lat": 24.8546842,
+    "lon": 67.0207055
+  },
+  "Dr. Dowood pota Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Dr. Zia-uddin Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Dr. Ziauddin Ahmed Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Dr. Ziauddin Hospital": {
+    "lat": 24.817013,
+    "lon": 67.0067409
+  },
+  "Dr. dawood pota Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Drigh Colony No. 1": {
+    "lat": 24.8843716,
+    "lon": 67.1283876
+  },
+  "Drigh Colony No. 2": {
+    "lat": 24.8843716,
+    "lon": 67.1283876
+  },
+  "Drigh Colony No. 5": {
+    "lat": 24.8843716,
+    "lon": 67.1283876
+  },
+  "Drigh Colony Sector No 3": {
+    "lat": null,
+    "lon": null
+  },
+  "Drigh Colony sector No 3": {
+    "lat": null,
+    "lon": null
+  },
+  "Drigh Road": {
+    "lat": 24.8863153,
+    "lon": 67.1261891
+  },
+  "Drigh Road Station": {
+    "lat": 24.8863153,
+    "lon": 67.1261891
+  },
+  "Drive-In": {
+    "lat": 24.9023146,
+    "lon": 67.1120122
+  },
+  "Drive-in-cinema": {
+    "lat": null,
+    "lon": null
+  },
+  "Driven Cinema": {
+    "lat": null,
+    "lon": null
+  },
+  "Dubba Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Eid Gah": {
+    "lat": 24.9148471,
+    "lon": 66.9708766
+  },
+  "Eidgah": {
+    "lat": 24.8591266,
+    "lon": 67.0138917
+  },
+  "Empress Market": {
+    "lat": 24.8620983,
+    "lon": 67.0294872
+  },
+  "End of Sector 4 Baldia Town": {
+    "lat": null,
+    "lon": null
+  },
+  "Enquiry office": {
+    "lat": 24.9071447,
+    "lon": 67.0323287
+  },
+  "Enrollment Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Erum Shopping Centre": {
+    "lat": null,
+    "lon": null
+  },
+  "Essa nagari": {
+    "lat": 24.90253,
+    "lon": 67.0663842
+  },
+  "Estate avenue": {
+    "lat": 24.8900906,
+    "lon": 66.9842832
+  },
+  "Exhibition": {
+    "lat": 24.8760053,
+    "lon": 67.02348
+  },
+  "Extension Malir City Petrol Pump": {
+    "lat": null,
+    "lon": null
+  },
+  "Eye Hospital": {
+    "lat": 24.9264816,
+    "lon": 67.0957832
+  },
+  "F.B Area": {
+    "lat": 24.937149,
+    "lon": 67.0876128
+  },
+  "F.T.C": {
+    "lat": null,
+    "lon": null
+  },
+  "FLeet Club": {
+    "lat": 24.8570439,
+    "lon": 67.0343326
+  },
+  "FTC": {
+    "lat": 24.8590985,
+    "lon": 67.0495613
+  },
+  "Faisal Road": {
+    "lat": 24.8700183,
+    "lon": 67.0878386
+  },
+  "Faizabad Sector 4-A": {
+    "lat": null,
+    "lon": null
+  },
+  "Faizabad Sector 7-A": {
+    "lat": null,
+    "lon": null
+  },
+  "Faizabad Sector 7-B": {
+    "lat": null,
+    "lon": null
+  },
+  "Faqir Colony": {
+    "lat": 24.9221698,
+    "lon": 66.9645285
+  },
+  "Faqir Mohammad Durra Khan Road": {
+    "lat": null,
+    "lon": null
+  },
+  "FaqirColony": {
+    "lat": null,
+    "lon": null
+  },
+  "Faquir Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Faran Centre": {
+    "lat": null,
+    "lon": null
+  },
+  "Fareed Colony": {
+    "lat": 24.9364701,
+    "lon": 66.9806566
+  },
+  "Farid Colony": {
+    "lat": 24.9195613,
+    "lon": 67.0875179
+  },
+  "Farooq Mills": {
+    "lat": null,
+    "lon": null
+  },
+  "Fatimah Jinnah Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Fazal Mills": {
+    "lat": 24.84714,
+    "lon": 67.1713711
+  },
+  "Federal B. Area": {
+    "lat": 24.9256493,
+    "lon": 67.0689573
+  },
+  "Fedral B. Area": {
+    "lat": 24.9176913,
+    "lon": 67.0634425
+  },
+  "Fedral B. Area Block-H Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Fedrel B. Area": {
+    "lat": null,
+    "lon": null
+  },
+  "Ferer Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Filter Plant": {
+    "lat": 24.8972686,
+    "lon": 67.1152662
+  },
+  "Firdous Colony": {
+    "lat": 24.8962158,
+    "lon": 67.0341652
+  },
+  "First Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Fish Harbour": {
+    "lat": 24.8012067,
+    "lon": 67.2013957
+  },
+  "Fisheries": {
+    "lat": 24.8053713,
+    "lon": 67.202061
+  },
+  "Fishri": {
+    "lat": null,
+    "lon": null
+  },
+  "Fishries": {
+    "lat": null,
+    "lon": null
+  },
+  "Five star": {
+    "lat": 24.816351,
+    "lon": 67.0299557
+  },
+  "Five star Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Fleet CLub": {
+    "lat": 24.8570439,
+    "lon": 67.0343326
+  },
+  "Fleet Club": {
+    "lat": 24.8570439,
+    "lon": 67.0343326
+  },
+  "Fleet Club Shahrah-e-Iraq": {
+    "lat": null,
+    "lon": null
+  },
+  "Frere Hall": {
+    "lat": 24.8475202,
+    "lon": 67.0330882
+  },
+  "Frere Road": {
+    "lat": 24.857678,
+    "lon": 67.0312036
+  },
+  "Frere Street": {
+    "lat": 24.857678,
+    "lon": 67.0312036
+  },
+  "Fresco Chowk": {
+    "lat": 24.8901591,
+    "lon": 67.0776219
+  },
+  "Fronteir Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Frontier Colony": {
+    "lat": 24.9291862,
+    "lon": 67.0055184
+  },
+  "Frontier Mor": {
+    "lat": null,
+    "lon": null
+  },
+  "Frontier More": {
+    "lat": null,
+    "lon": null
+  },
+  "Frontier Mour": {
+    "lat": null,
+    "lon": null
+  },
+  "Frontier mor": {
+    "lat": null,
+    "lon": null
+  },
+  "Future Colony": {
+    "lat": 24.8582339,
+    "lon": 67.1968502
+  },
+  "Fuwara Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "G Alana Road": {
+    "lat": null,
+    "lon": null
+  },
+  "G. Allana Road": {
+    "lat": 24.8481332,
+    "lon": 66.995351
+  },
+  "G.Allana Road": {
+    "lat": 24.8481332,
+    "lon": 66.995351
+  },
+  "GUkshan-e- Behar": {
+    "lat": null,
+    "lon": null
+  },
+  "GUlbai": {
+    "lat": 24.8765871,
+    "lon": 66.969813
+  },
+  "GUlistan-e-Jouhar": {
+    "lat": 24.9311811,
+    "lon": 67.1570819
+  },
+  "Gabol Goth": {
+    "lat": 24.9756495,
+    "lon": 67.145934
+  },
+  "Gabol Town": {
+    "lat": 24.9662573,
+    "lon": 67.0874563
+  },
+  "Gadap": {
+    "lat": 25.0721339,
+    "lon": 67.1236241
+  },
+  "Gadap Goth": {
+    "lat": 25.0118453,
+    "lon": 67.0227421
+  },
+  "Gaddafi Town": {
+    "lat": null,
+    "lon": null
+  },
+  "Gandhi Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Gandhi Garden": {
+    "lat": null,
+    "lon": null
+  },
+  "Garden": {
+    "lat": 24.8819943,
+    "lon": 67.0309179
+  },
+  "Garden Bara Board": {
+    "lat": null,
+    "lon": null
+  },
+  "Garden Road": {
+    "lat": 24.880649,
+    "lon": 67.0231837
+  },
+  "Gareebabad": {
+    "lat": null,
+    "lon": null
+  },
+  "Geedar Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "General motors": {
+    "lat": 24.8842602,
+    "lon": 66.9938678
+  },
+  "Geram-ka-Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Ghani Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Ghani Chowrangi": {
+    "lat": 24.894223,
+    "lon": 66.9895923
+  },
+  "Ghareebabad": {
+    "lat": null,
+    "lon": null
+  },
+  "Gharibabad": {
+    "lat": 24.9088666,
+    "lon": 67.0572828
+  },
+  "Ghas Bunder": {
+    "lat": null,
+    "lon": null
+  },
+  "Ghas Mandi": {
+    "lat": 24.9449948,
+    "lon": 67.0680422
+  },
+  "Ghas Mandir": {
+    "lat": null,
+    "lon": null
+  },
+  "Ghazi Salahuddin Road": {
+    "lat": 24.8763921,
+    "lon": 67.0871101
+  },
+  "Ghodra No.7": {
+    "lat": null,
+    "lon": null
+  },
+  "Ghouspak": {
+    "lat": null,
+    "lon": null
+  },
+  "Gizri": {
+    "lat": 24.8175311,
+    "lon": 67.0458706
+  },
+  "Godhra": {
+    "lat": 25.0197567,
+    "lon": 67.0885004
+  },
+  "Godhra Camp": {
+    "lat": null,
+    "lon": null
+  },
+  "Godhra Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Godhra camp": {
+    "lat": null,
+    "lon": null
+  },
+  "Godown Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Goharabad": {
+    "lat": 24.923929,
+    "lon": 67.0785772
+  },
+  "Golden City": {
+    "lat": 24.963969,
+    "lon": 67.135248
+  },
+  "Goli Maar": {
+    "lat": null,
+    "lon": null
+  },
+  "Goli Maar Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Golimar": {
+    "lat": 24.8926609,
+    "lon": 67.0274263
+  },
+  "Golimar Chowrangi": {
+    "lat": 24.9020224,
+    "lon": 67.0306873
+  },
+  "Golimar No 1": {
+    "lat": 24.8926609,
+    "lon": 67.0274263
+  },
+  "Golimar No 2": {
+    "lat": 24.8926609,
+    "lon": 67.0274263
+  },
+  "Gora Kabristan": {
+    "lat": null,
+    "lon": null
+  },
+  "Gora Qabristan": {
+    "lat": 24.8552148,
+    "lon": 67.0503499
+  },
+  "Gora Qabrtustan": {
+    "lat": null,
+    "lon": null
+  },
+  "Gora Qabrustan": {
+    "lat": null,
+    "lon": null
+  },
+  "Goro Mandir": {
+    "lat": null,
+    "lon": null
+  },
+  "Goro Qabrustan": {
+    "lat": null,
+    "lon": null
+  },
+  "Goru Mandir": {
+    "lat": null,
+    "lon": null
+  },
+  "Gosia Chowk": {
+    "lat": 24.8825963,
+    "lon": 67.1884899
+  },
+  "Gr": {
+    "lat": 24.8581115,
+    "lon": 67.0245412
+  },
+  "Grace Colony": {
+    "lat": 24.902865,
+    "lon": 66.9741027
+  },
+  "Grace Mauripur": {
+    "lat": null,
+    "lon": null
+  },
+  "Graveyard No 7-1/2": {
+    "lat": null,
+    "lon": null
+  },
+  "Grazy Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Gujarnala": {
+    "lat": null,
+    "lon": null
+  },
+  "Gujjar Nala": {
+    "lat": 24.9254787,
+    "lon": 67.0497235
+  },
+  "Gujjar nala": {
+    "lat": 24.9254787,
+    "lon": 67.0497235
+  },
+  "Gul Ahmed": {
+    "lat": 24.8842788,
+    "lon": 67.0811297
+  },
+  "Gul Ahmed Mills": {
+    "lat": 24.8453217,
+    "lon": 67.2152633
+  },
+  "Gul Ahmed Textile Mills": {
+    "lat": 24.8388225,
+    "lon": 67.2196912
+  },
+  "Gul City": {
+    "lat": 24.9820338,
+    "lon": 67.2019329
+  },
+  "Gul Mohammad Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulashan-e-Hadeed": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulba": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulbahar": {
+    "lat": 24.8961404,
+    "lon": 67.0257302
+  },
+  "Gulbai": {
+    "lat": 24.8765871,
+    "lon": 66.969813
+  },
+  "Gulbai Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulbehar Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulberg": {
+    "lat": 24.9325432,
+    "lon": 67.0705588
+  },
+  "Gulberg Chowrangi": {
+    "lat": 24.942086,
+    "lon": 67.0710369
+  },
+  "Gulberg Colony": {
+    "lat": 24.9233032,
+    "lon": 67.0591838
+  },
+  "Gulberg Textile Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulberg Textile Mill": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulistan-e- Jauhar Block 18": {
+    "lat": 24.9240162,
+    "lon": 67.1382134
+  },
+  "Gulistan-e-Jauhar": {
+    "lat": 24.9240162,
+    "lon": 67.1382134
+  },
+  "Gulistan-e-Jauhar Block 17": {
+    "lat": 24.9240162,
+    "lon": 67.1382134
+  },
+  "Gulistan-e-Jauher": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulistan-e-Johar": {
+    "lat": 24.9093636,
+    "lon": 67.1084783
+  },
+  "Gulistan-e-Jouhar": {
+    "lat": 24.9311811,
+    "lon": 67.1570819
+  },
+  "Gulistan-e-johar": {
+    "lat": 24.9093636,
+    "lon": 67.1084783
+  },
+  "Gulistan-e-johar No. 10": {
+    "lat": 24.9218341,
+    "lon": 67.1307899
+  },
+  "Gulshan": {
+    "lat": 24.8976976,
+    "lon": 67.0663342
+  },
+  "Gulshan Chorangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulshan Chowrangi": {
+    "lat": 24.9246131,
+    "lon": 67.0912849
+  },
+  "Gulshan Complex": {
+    "lat": 24.8698102,
+    "lon": 67.0947496
+  },
+  "Gulshan Ghazi": {
+    "lat": 24.9125157,
+    "lon": 67.0919756
+  },
+  "Gulshan Thana": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulshan umair": {
+    "lat": 24.9397541,
+    "lon": 67.1670945
+  },
+  "Gulshan- e-Ghazi": {
+    "lat": 24.923948,
+    "lon": 66.9793321
+  },
+  "Gulshan-e- Iqbal": {
+    "lat": 24.9067294,
+    "lon": 67.0986573
+  },
+  "Gulshan-e- Maymar": {
+    "lat": 25.020894,
+    "lon": 67.1322813
+  },
+  "Gulshan-e-Bahar": {
+    "lat": 24.9715756,
+    "lon": 66.9925217
+  },
+  "Gulshan-e-Behar": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulshan-e-Bihar": {
+    "lat": 24.8875579,
+    "lon": 67.0503208
+  },
+  "Gulshan-e-Farooq": {
+    "lat": 24.9661433,
+    "lon": 67.0495724
+  },
+  "Gulshan-e-Farooq 7-D Qabrustan": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulshan-e-Ghazi": {
+    "lat": 24.923948,
+    "lon": 66.9793321
+  },
+  "Gulshan-e-Hadeed": {
+    "lat": 24.8699988,
+    "lon": 67.3600518
+  },
+  "Gulshan-e-Hadeed Phase 1 and Phase 2": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulshan-e-Hadeed Phase 3": {
+    "lat": 24.8787296,
+    "lon": 67.3699986
+  },
+  "Gulshan-e-Hadeed Phase I": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulshan-e-Hadeed Phase II": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulshan-e-Hadeed Phase III": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulshan-e-Hadid": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulshan-e-Iqbal": {
+    "lat": 24.9067294,
+    "lon": 67.0986573
+  },
+  "Gulshan-e-Iqbal 13-D-2": {
+    "lat": 24.9067294,
+    "lon": 67.0986573
+  },
+  "Gulshan-e-Iqbal Block 5 Chowrangi": {
+    "lat": 24.9255868,
+    "lon": 67.09278
+  },
+  "Gulshan-e-Iqbal Block No. 4": {
+    "lat": 24.9290468,
+    "lon": 67.1041035
+  },
+  "Gulshan-e-Iqbal Block No. 4-A": {
+    "lat": 24.9290468,
+    "lon": 67.1041035
+  },
+  "Gulshan-e-Maymar": {
+    "lat": 25.020894,
+    "lon": 67.1322813
+  },
+  "Gulshan-e-Rufi": {
+    "lat": 24.9103343,
+    "lon": 67.0716579
+  },
+  "Gulshan-e-Saeed Hassan": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulshan-e-Shamim": {
+    "lat": 24.9169379,
+    "lon": 67.0748454
+  },
+  "Gulshan-e-Zia Terminal No. 1": {
+    "lat": null,
+    "lon": null
+  },
+  "Gulshan-e-zia": {
+    "lat": 24.9985418,
+    "lon": 66.9777236
+  },
+  "Gulzar Colony": {
+    "lat": 24.8556768,
+    "lon": 67.1339467
+  },
+  "Gulzar Colony Sector 8-F": {
+    "lat": null,
+    "lon": null
+  },
+  "Guru Mandir": {
+    "lat": 24.88136,
+    "lon": 67.0380082
+  },
+  "Guru Nadir": {
+    "lat": null,
+    "lon": null
+  },
+  "Guru mandir": {
+    "lat": 24.8795684,
+    "lon": 67.0411743
+  },
+  "Gymkhana Club": {
+    "lat": 24.9337323,
+    "lon": 67.0640026
+  },
+  "H.I Rehmatullah Road": {
+    "lat": null,
+    "lon": null
+  },
+  "HB Weather": {
+    "lat": null,
+    "lon": null
+  },
+  "Habbib Bank": {
+    "lat": null,
+    "lon": null
+  },
+  "Habib Bank": {
+    "lat": 24.9095191,
+    "lon": 67.0500177
+  },
+  "Habib Bank Chowrangi": {
+    "lat": 24.9113326,
+    "lon": 67.014248
+  },
+  "Habib Chowrangi": {
+    "lat": 24.850002,
+    "lon": 67.2073053
+  },
+  "Habib bank": {
+    "lat": 24.9095191,
+    "lon": 67.0500177
+  },
+  "Habib mills": {
+    "lat": 24.8941834,
+    "lon": 66.988998
+  },
+  "Habibabad": {
+    "lat": null,
+    "lon": null
+  },
+  "Haji Camp": {
+    "lat": 24.8440461,
+    "lon": 67.0377769
+  },
+  "Haji Camp Road": {
+    "lat": 24.8406155,
+    "lon": 67.0140056
+  },
+  "Haji Jikhria": {
+    "lat": null,
+    "lon": null
+  },
+  "Haji Zakria Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Haji camp": {
+    "lat": 24.8440461,
+    "lon": 67.0377769
+  },
+  "Haji camp Road": {
+    "lat": 24.8406155,
+    "lon": 67.0140056
+  },
+  "Halipad": {
+    "lat": null,
+    "lon": null
+  },
+  "Hamdard university": {
+    "lat": 25.0853977,
+    "lon": 67.0078658
+  },
+  "Haneef Manzil": {
+    "lat": null,
+    "lon": null
+  },
+  "Harichandrai Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Haroon Banglow": {
+    "lat": null,
+    "lon": null
+  },
+  "Hasan Road": {
+    "lat": 24.8484166,
+    "lon": 66.9994065
+  },
+  "Hasan Square": {
+    "lat": 24.9007046,
+    "lon": 67.0725224
+  },
+  "Hasan square": {
+    "lat": 24.9007046,
+    "lon": 67.0725224
+  },
+  "Hashim Goth": {
+    "lat": 24.9397098,
+    "lon": 67.2449145
+  },
+  "Hassan Square": {
+    "lat": 24.9014648,
+    "lon": 67.0739031
+  },
+  "Hassan square": {
+    "lat": 24.9014648,
+    "lon": 67.0739031
+  },
+  "HassanSquare": {
+    "lat": null,
+    "lon": null
+  },
+  "Hawksbay": {
+    "lat": 24.9003807,
+    "lon": 66.8399224
+  },
+  "Hazrat Bilal Colony": {
+    "lat": 24.8513116,
+    "lon": 67.1339494
+  },
+  "Herchandrai Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Hijaz Dairy Farm": {
+    "lat": null,
+    "lon": null
+  },
+  "Hill Park": {
+    "lat": 24.870432,
+    "lon": 67.0713521
+  },
+  "Holiday Inn Hotel": {
+    "lat": null,
+    "lon": null
+  },
+  "Holy Family Hospital": {
+    "lat": 24.8721154,
+    "lon": 67.0278646
+  },
+  "Hospital Chorangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Hospital Chowrangi": {
+    "lat": 24.8371352,
+    "lon": 67.2254224
+  },
+  "Hospital Road": {
+    "lat": 24.8553579,
+    "lon": 67.0381246
+  },
+  "Hub Dam Colony": {
+    "lat": 25.0012132,
+    "lon": 67.0358762
+  },
+  "Hub Pumping Station": {
+    "lat": null,
+    "lon": null
+  },
+  "Hub River Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Hub dam Road harri masjid": {
+    "lat": null,
+    "lon": null
+  },
+  "Hub river Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Humayun Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Hussain D'Silva": {
+    "lat": null,
+    "lon": null
+  },
+  "Hussain D'Silva Town": {
+    "lat": null,
+    "lon": null
+  },
+  "Hussainabad": {
+    "lat": 24.8852314,
+    "lon": 67.0590877
+  },
+  "Hussaini Sajjadia": {
+    "lat": null,
+    "lon": null
+  },
+  "Hussaini Sajjadia Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Hyderabad Colony": {
+    "lat": 24.8853926,
+    "lon": 67.0539685
+  },
+  "Hyderi": {
+    "lat": 24.9390175,
+    "lon": 66.9946574
+  },
+  "I.C.I": {
+    "lat": 24.8591785,
+    "lon": 67.0595314
+  },
+  "I.C.I Bridge": {
+    "lat": null,
+    "lon": null
+  },
+  "I.I Chundrigar Road": {
+    "lat": 24.8491113,
+    "lon": 67.0012571
+  },
+  "I.I Cundrigar Road": {
+    "lat": null,
+    "lon": null
+  },
+  "I.I chundrigar Road": {
+    "lat": 24.8491113,
+    "lon": 67.0012571
+  },
+  "ICI Factory": {
+    "lat": null,
+    "lon": null
+  },
+  "Ibrahim": {
+    "lat": 24.9323944,
+    "lon": 67.0289885
+  },
+  "Ibrahim Haidery": {
+    "lat": 24.7851872,
+    "lon": 67.1428731
+  },
+  "Ibrahim Hyder": {
+    "lat": null,
+    "lon": null
+  },
+  "Ibrahim Hyderi": {
+    "lat": 24.797538,
+    "lon": 67.1358935
+  },
+  "Imam Bara": {
+    "lat": 24.8867316,
+    "lon": 67.046841
+  },
+  "Imam Hospital": {
+    "lat": 24.8893656,
+    "lon": 67.0455284
+  },
+  "Industrial Area": {
+    "lat": 24.8875612,
+    "lon": 67.193538
+  },
+  "Ingle Road": {
+    "lat": 24.8519716,
+    "lon": 67.0202551
+  },
+  "Invararity Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Invarity Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Iqbal Market": {
+    "lat": 24.8513455,
+    "lon": 66.998958
+  },
+  "Iqbal Market 11 1/2 Orangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Iqbal S.J Shaheed Road": {
+    "lat": 24.871948,
+    "lon": 67.026601
+  },
+  "Iqbal Shaheed Road": {
+    "lat": 24.8875579,
+    "lon": 67.0503208
+  },
+  "Iqbal Sheed Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Ishaqabad bridgh": {
+    "lat": null,
+    "lon": null
+  },
+  "Islam Chowk": {
+    "lat": 24.9552026,
+    "lon": 66.9901441
+  },
+  "Islam Nagar": {
+    "lat": 24.8733525,
+    "lon": 67.0143578
+  },
+  "Islamia College": {
+    "lat": 24.9631947,
+    "lon": 67.0763773
+  },
+  "Islamia college": {
+    "lat": 24.9631947,
+    "lon": 67.0763773
+  },
+  "Ismiala jamat khana tower": {
+    "lat": null,
+    "lon": null
+  },
+  "Ittefaq Colony Malir": {
+    "lat": null,
+    "lon": null
+  },
+  "Ittehad Colony": {
+    "lat": 24.9263056,
+    "lon": 66.9640339
+  },
+  "Ittehad Town": {
+    "lat": 24.9746492,
+    "lon": 66.9535385
+  },
+  "Ittehad Towwn": {
+    "lat": null,
+    "lon": null
+  },
+  "Jaffer Tayyar Society": {
+    "lat": 24.8841642,
+    "lon": 67.1996064
+  },
+  "Jahangeer Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Jahangir Road": {
+    "lat": 24.8881768,
+    "lon": 67.0386064
+  },
+  "Jail Chowrangi": {
+    "lat": 24.884818,
+    "lon": 67.0565488
+  },
+  "Jail Road": {
+    "lat": 24.8927806,
+    "lon": 67.0543393
+  },
+  "Jail Road Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Jalendhri Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Jam Goth": {
+    "lat": 24.9854045,
+    "lon": 67.1058799
+  },
+  "Jam Sadiq Ali Bridge": {
+    "lat": 24.832711,
+    "lon": 67.0904527
+  },
+  "Jam saddiq ali bridge": {
+    "lat": null,
+    "lon": null
+  },
+  "Jama Cloth": {
+    "lat": 24.8587824,
+    "lon": 67.0144873
+  },
+  "Jama Cloth Market": {
+    "lat": 24.8587824,
+    "lon": 67.0144873
+  },
+  "Jama Colth": {
+    "lat": null,
+    "lon": null
+  },
+  "Jama Goth": {
+    "lat": 25.0872961,
+    "lon": 67.0129946
+  },
+  "Jama cloth": {
+    "lat": 24.8587824,
+    "lon": 67.0144873
+  },
+  "Jama cloth Market": {
+    "lat": 24.8587824,
+    "lon": 67.0144873
+  },
+  "Jamaluddin Afghani Road": {
+    "lat": 24.8844217,
+    "lon": 67.0647532
+  },
+  "Jamat Khana": {
+    "lat": 24.9137255,
+    "lon": 67.1010768
+  },
+  "Jamila street": {
+    "lat": 24.8676176,
+    "lon": 67.0119025
+  },
+  "Jamshed Road": {
+    "lat": 24.8817322,
+    "lon": 67.0438308
+  },
+  "Jauhar Square": {
+    "lat": null,
+    "lon": null
+  },
+  "Jauhar square": {
+    "lat": null,
+    "lon": null
+  },
+  "Javedan Cement Factory": {
+    "lat": null,
+    "lon": null
+  },
+  "Jehangir Road": {
+    "lat": 24.8614877,
+    "lon": 67.0280331
+  },
+  "Jehangirabad": {
+    "lat": null,
+    "lon": null
+  },
+  "Jet Line": {
+    "lat": null,
+    "lon": null
+  },
+  "Jet Lines": {
+    "lat": null,
+    "lon": null
+  },
+  "Jet lines": {
+    "lat": null,
+    "lon": null
+  },
+  "JetLine": {
+    "lat": null,
+    "lon": null
+  },
+  "Jial Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Jigar muradavadi Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Jinnah Avenue": {
+    "lat": 25.1531022,
+    "lon": 67.3667636
+  },
+  "Jinnah Hospital": {
+    "lat": 24.8517423,
+    "lon": 67.0471346
+  },
+  "Jinnah Mazar": {
+    "lat": null,
+    "lon": null
+  },
+  "Jinnah Square": {
+    "lat": 24.9994855,
+    "lon": 67.3142443
+  },
+  "Jinnah central hospital": {
+    "lat": null,
+    "lon": null
+  },
+  "Jinnah hospital": {
+    "lat": 24.8517423,
+    "lon": 67.0471346
+  },
+  "Jinnah square": {
+    "lat": 24.9965676,
+    "lon": 67.3159137
+  },
+  "JinnahHospiutal": {
+    "lat": null,
+    "lon": null
+  },
+  "Jonijo Town": {
+    "lat": null,
+    "lon": null
+  },
+  "Jouhar Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Jouhar Square": {
+    "lat": null,
+    "lon": null
+  },
+  "Jubilee Cinema": {
+    "lat": null,
+    "lon": null
+  },
+  "Jubilee cinema": {
+    "lat": null,
+    "lon": null
+  },
+  "Juhar Square": {
+    "lat": null,
+    "lon": null
+  },
+  "Juna Maket": {
+    "lat": null,
+    "lon": null
+  },
+  "Juna Market": {
+    "lat": 24.856877,
+    "lon": 67.0021881
+  },
+  "Jutland Lines": {
+    "lat": 24.8654616,
+    "lon": 67.0393943
+  },
+  "Jutland line": {
+    "lat": 24.8670762,
+    "lon": 67.0335898
+  },
+  "Juuna Market": {
+    "lat": null,
+    "lon": null
+  },
+  "K Area": {
+    "lat": 24.8398374,
+    "lon": 67.1659474
+  },
+  "K.D.A": {
+    "lat": 24.8999988,
+    "lon": 67.094355
+  },
+  "K.D.A Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "K.D.A Civic Centre": {
+    "lat": null,
+    "lon": null
+  },
+  "K.D.A Office": {
+    "lat": null,
+    "lon": null
+  },
+  "K.D.A Pump House": {
+    "lat": null,
+    "lon": null
+  },
+  "K.D.A Site Office": {
+    "lat": null,
+    "lon": null
+  },
+  "K.D.A Site office": {
+    "lat": null,
+    "lon": null
+  },
+  "K.M.C Primary School": {
+    "lat": null,
+    "lon": null
+  },
+  "K.M.C Work Shop": {
+    "lat": null,
+    "lon": null
+  },
+  "K.M.C Workshop": {
+    "lat": null,
+    "lon": null
+  },
+  "K.P.T ground": {
+    "lat": null,
+    "lon": null
+  },
+  "KDA": {
+    "lat": 24.8896835,
+    "lon": 67.0836475
+  },
+  "KDA Flats Sector 14-A": {
+    "lat": null,
+    "lon": null
+  },
+  "KDA Flats Sector 14-B": {
+    "lat": null,
+    "lon": null
+  },
+  "KDA Office": {
+    "lat": 24.9276853,
+    "lon": 67.0947378
+  },
+  "KDA Pump": {
+    "lat": null,
+    "lon": null
+  },
+  "Kachi Memon Society": {
+    "lat": null,
+    "lon": null
+  },
+  "Kadiji": {
+    "lat": null,
+    "lon": null
+  },
+  "Kakri Ground": {
+    "lat": 24.8563007,
+    "lon": 66.9992906
+  },
+  "Kakri Road": {
+    "lat": 24.8598986,
+    "lon": 66.992386
+  },
+  "Kala Board": {
+    "lat": 24.8823269,
+    "lon": 67.1823277
+  },
+  "Kala Pul": {
+    "lat": 24.8503816,
+    "lon": 67.0536257
+  },
+  "Kala Pull": {
+    "lat": null,
+    "lon": null
+  },
+  "Kala School": {
+    "lat": null,
+    "lon": null
+  },
+  "Kala school": {
+    "lat": null,
+    "lon": null
+  },
+  "Kalapul": {
+    "lat": 24.8482773,
+    "lon": 67.0489213
+  },
+  "Kali Market": {
+    "lat": 24.8573086,
+    "lon": 67.01259
+  },
+  "Kalri": {
+    "lat": 24.8696003,
+    "lon": 66.989002
+  },
+  "Kannup Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Karachi University": {
+    "lat": 24.9437348,
+    "lon": 67.1206228
+  },
+  "Karella Mour": {
+    "lat": null,
+    "lon": null
+  },
+  "Karim Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Karimabad": {
+    "lat": 24.9195535,
+    "lon": 67.0556807
+  },
+  "Karimabad Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Karsaz": {
+    "lat": 24.8778199,
+    "lon": 67.0989711
+  },
+  "Karsaz lal kothi": {
+    "lat": null,
+    "lon": null
+  },
+  "Kasba Mour": {
+    "lat": null,
+    "lon": null
+  },
+  "Kashmir Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Kashmir Road": {
+    "lat": 24.8718697,
+    "lon": 67.0482177
+  },
+  "Kathere": {
+    "lat": null,
+    "lon": null
+  },
+  "Kathore": {
+    "lat": 25.0077205,
+    "lon": 67.3566338
+  },
+  "Katrak Road": {
+    "lat": 24.8591535,
+    "lon": 67.0252501
+  },
+  "Kawari Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Keamari": {
+    "lat": 24.821889,
+    "lon": 66.9840531
+  },
+  "Keamari K.P.T Ground": {
+    "lat": null,
+    "lon": null
+  },
+  "Keamari Terminal No.2": {
+    "lat": null,
+    "lon": null
+  },
+  "Kearmari": {
+    "lat": null,
+    "lon": null
+  },
+  "Keemari": {
+    "lat": null,
+    "lon": null
+  },
+  "Kemari": {
+    "lat": 24.819949,
+    "lon": 66.9748366
+  },
+  "Kenker": {
+    "lat": null,
+    "lon": null
+  },
+  "Khadda Market": {
+    "lat": 24.8134813,
+    "lon": 67.049954
+  },
+  "Khadda Memon Society": {
+    "lat": null,
+    "lon": null
+  },
+  "Khadda Quarters": {
+    "lat": null,
+    "lon": null
+  },
+  "Khadda quaters": {
+    "lat": null,
+    "lon": null
+  },
+  "Khairabad": {
+    "lat": 24.861042,
+    "lon": 67.0010066
+  },
+  "Khaja jamat khana": {
+    "lat": null,
+    "lon": null
+  },
+  "Khajeer Bazar": {
+    "lat": null,
+    "lon": null
+  },
+  "Khajoor Market": {
+    "lat": 24.8591475,
+    "lon": 67.0004109
+  },
+  "Khaled Bin Walid Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Khalid Bin Waleed Road": {
+    "lat": 24.878868,
+    "lon": 67.0598122
+  },
+  "Khalid Bin Walid Road": {
+    "lat": 24.8782874,
+    "lon": 67.0592959
+  },
+  "Khaliq-e-Saddi": {
+    "lat": null,
+    "lon": null
+  },
+  "Khaliq-us- Zaman Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Khaliq-uz-Zaman Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Khaliquzaman Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Khaliquzzaman Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Kharadar": {
+    "lat": 24.8511574,
+    "lon": 66.9949796
+  },
+  "Kharadar Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Kharkar Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Khaskheli Goth": {
+    "lat": 25.1181724,
+    "lon": 67.1589773
+  },
+  "Khatoon-e-Pakistan College": {
+    "lat": 24.8902663,
+    "lon": 67.0729308
+  },
+  "Khawaja Ajmair Nagri": {
+    "lat": null,
+    "lon": null
+  },
+  "Khawaja Ajmeer Nagar": {
+    "lat": null,
+    "lon": null
+  },
+  "Khayaban-e- Shamsheer": {
+    "lat": 24.8095272,
+    "lon": 67.0443122
+  },
+  "Khayaban-e-Attar": {
+    "lat": null,
+    "lon": null
+  },
+  "Khayaban-e-Bahria": {
+    "lat": 24.809963,
+    "lon": 67.0577563
+  },
+  "Khayaban-e-Jami": {
+    "lat": 24.8287803,
+    "lon": 67.061715
+  },
+  "Khayaban-e-Mafia": {
+    "lat": null,
+    "lon": null
+  },
+  "Khayaban-e-Roomi": {
+    "lat": 24.7764307,
+    "lon": 67.061139
+  },
+  "Khayaban-e-Sadi": {
+    "lat": null,
+    "lon": null
+  },
+  "Khayaban-e-Shamsheer": {
+    "lat": 24.8095272,
+    "lon": 67.0443122
+  },
+  "Khayaban-e-Shamsher": {
+    "lat": null,
+    "lon": null
+  },
+  "Khayaban-e-shershah soori Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Khayam No 3": {
+    "lat": null,
+    "lon": null
+  },
+  "Khayam No 4": {
+    "lat": null,
+    "lon": null
+  },
+  "Khayam No 5": {
+    "lat": null,
+    "lon": null
+  },
+  "Khazana": {
+    "lat": null,
+    "lon": null
+  },
+  "Kheja Jamat Khana": {
+    "lat": null,
+    "lon": null
+  },
+  "Khoja Jamat Khana": {
+    "lat": null,
+    "lon": null
+  },
+  "Khoja jamat khana": {
+    "lat": null,
+    "lon": null
+  },
+  "Khokhrapar": {
+    "lat": 24.9040971,
+    "lon": 67.211932
+  },
+  "Khokhrapar No 1": {
+    "lat": 24.9040971,
+    "lon": 67.211932
+  },
+  "Khokhrapar No 2": {
+    "lat": 24.9040971,
+    "lon": 67.211932
+  },
+  "Khokhrapar No 3": {
+    "lat": 24.9040971,
+    "lon": 67.211932
+  },
+  "Khokhrapar No 4": {
+    "lat": 24.9040971,
+    "lon": 67.211932
+  },
+  "Khokhrapar No. 1": {
+    "lat": 24.9040971,
+    "lon": 67.211932
+  },
+  "Khokhrapar No. 4": {
+    "lat": 24.9040971,
+    "lon": 67.211932
+  },
+  "Khokhrapar No. 6": {
+    "lat": 24.9040971,
+    "lon": 67.211932
+  },
+  "Khokrapar No.1 and No. 4": {
+    "lat": null,
+    "lon": null
+  },
+  "Khuaja Ajmeer Nagar": {
+    "lat": null,
+    "lon": null
+  },
+  "Khudadad Colony": {
+    "lat": 24.8774266,
+    "lon": 67.0463278
+  },
+  "Khuwaja Ajmer Nagri": {
+    "lat": 24.9881625,
+    "lon": 67.0562585
+  },
+  "Khyber": {
+    "lat": 24.9247003,
+    "lon": 67.0195339
+  },
+  "Khyber Chowk": {
+    "lat": 24.9653497,
+    "lon": 66.9594937
+  },
+  "Kinara Hotel": {
+    "lat": null,
+    "lon": null
+  },
+  "Kiran Hospital": {
+    "lat": 24.9470857,
+    "lon": 67.1449134
+  },
+  "Korangi": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi Area": {
+    "lat": 24.8271755,
+    "lon": 67.1013089
+  },
+  "Korangi Crossing": {
+    "lat": 24.8170248,
+    "lon": 67.1079526
+  },
+  "Korangi Crossing Quyumabad": {
+    "lat": null,
+    "lon": null
+  },
+  "Korangi I-Area": {
+    "lat": 24.8530492,
+    "lon": 67.187944
+  },
+  "Korangi Industrial Area": {
+    "lat": 24.8458157,
+    "lon": 67.1355012
+  },
+  "Korangi Market": {
+    "lat": 24.834274,
+    "lon": 67.1002395
+  },
+  "Korangi Market No. 6": {
+    "lat": null,
+    "lon": null
+  },
+  "Korangi No 1": {
+    "lat": 24.8268189,
+    "lon": 67.1298134
+  },
+  "Korangi No 2": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi No 3": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi No 4": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi No 5": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi No 5-1/2": {
+    "lat": 24.8338541,
+    "lon": 67.1443185
+  },
+  "Korangi No 6": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi No.": {
+    "lat": 24.8315676,
+    "lon": 67.1403241
+  },
+  "Korangi No. 1": {
+    "lat": 24.8268189,
+    "lon": 67.1298134
+  },
+  "Korangi No. 1 and No. 5": {
+    "lat": null,
+    "lon": null
+  },
+  "Korangi No. 2": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi No. 2 1/2": {
+    "lat": 24.8239193,
+    "lon": 67.1362753
+  },
+  "Korangi No. 2-1/2": {
+    "lat": 24.8239193,
+    "lon": 67.1362753
+  },
+  "Korangi No. 3": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi No. 4": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi No. 5": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi No. 5 1/2": {
+    "lat": 24.8250548,
+    "lon": 67.1461329
+  },
+  "Korangi No. 5-1/2": {
+    "lat": 24.8115624,
+    "lon": 67.1493715
+  },
+  "Korangi No. 6": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi No.1": {
+    "lat": 24.8268189,
+    "lon": 67.1298134
+  },
+  "Korangi No.13": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi No.14": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi No.2 1/2": {
+    "lat": 24.8239193,
+    "lon": 67.1362753
+  },
+  "Korangi No.4": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi No.6": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi No.7": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi No.8": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi Road": {
+    "lat": 24.8561209,
+    "lon": 67.0510981
+  },
+  "Korangi no. 1": {
+    "lat": 24.8268189,
+    "lon": 67.1298134
+  },
+  "Korangi no. 5": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Korangi no. 6": {
+    "lat": 24.8206928,
+    "lon": 67.1403735
+  },
+  "Kothri Parade": {
+    "lat": null,
+    "lon": null
+  },
+  "Kudadad Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Kutchery Road": {
+    "lat": 24.8551107,
+    "lon": 67.0099638
+  },
+  "LPG Plant": {
+    "lat": 24.8055977,
+    "lon": 67.1216246
+  },
+  "Labour Campus": {
+    "lat": 24.9048489,
+    "lon": 66.9857291
+  },
+  "Labour Quaters": {
+    "lat": null,
+    "lon": null
+  },
+  "Labour Sqaure": {
+    "lat": null,
+    "lon": null
+  },
+  "Labour Square": {
+    "lat": 24.9043422,
+    "lon": 66.9835094
+  },
+  "Labour square": {
+    "lat": 24.9043422,
+    "lon": 66.9835094
+  },
+  "Lae Market": {
+    "lat": null,
+    "lon": null
+  },
+  "Lal Kothi": {
+    "lat": 24.8621502,
+    "lon": 67.0690638
+  },
+  "Lal Market": {
+    "lat": 24.856845,
+    "lon": 67.0165721
+  },
+  "Lal Market 5-F": {
+    "lat": null,
+    "lon": null
+  },
+  "Lal Market New Karachi": {
+    "lat": null,
+    "lon": null
+  },
+  "Lal Masjid": {
+    "lat": 24.8942379,
+    "lon": 67.1909198
+  },
+  "Lalabad": {
+    "lat": 24.824186,
+    "lon": 67.2091981
+  },
+  "Laltain Factory": {
+    "lat": null,
+    "lon": null
+  },
+  "Lalukhat": {
+    "lat": null,
+    "lon": null
+  },
+  "Lalukhet": {
+    "lat": 24.9159121,
+    "lon": 67.0510731
+  },
+  "Lalukhet No. 10": {
+    "lat": 24.9159121,
+    "lon": 67.0510731
+  },
+  "Landhi": {
+    "lat": 24.8508469,
+    "lon": 67.211895
+  },
+  "Landhi 3-1/2": {
+    "lat": 24.8351918,
+    "lon": 67.1774095
+  },
+  "Landhi 89": {
+    "lat": 24.8351918,
+    "lon": 67.1774095
+  },
+  "Landhi Children Jail": {
+    "lat": null,
+    "lon": null
+  },
+  "Landhi Chiragh Hotel": {
+    "lat": 24.8370005,
+    "lon": 67.1801744
+  },
+  "Landhi Industrial Area": {
+    "lat": 24.8429607,
+    "lon": 67.206879
+  },
+  "Landhi K-Area": {
+    "lat": 24.8520926,
+    "lon": 67.1864717
+  },
+  "Landhi No 1": {
+    "lat": 24.8351918,
+    "lon": 67.1774095
+  },
+  "Landhi No 5": {
+    "lat": 24.8351918,
+    "lon": 67.1774095
+  },
+  "Landhi No. 1": {
+    "lat": 24.8351918,
+    "lon": 67.1774095
+  },
+  "Landhi No. 2": {
+    "lat": 24.8351918,
+    "lon": 67.1774095
+  },
+  "Landhi No. 3": {
+    "lat": 24.8351918,
+    "lon": 67.1774095
+  },
+  "Landhi No. 3 1/2": {
+    "lat": null,
+    "lon": null
+  },
+  "Landhi No. 4": {
+    "lat": 24.8351918,
+    "lon": 67.1774095
+  },
+  "Landhi No. 5": {
+    "lat": 24.8351918,
+    "lon": 67.1774095
+  },
+  "Landhi No. 6": {
+    "lat": 24.8351918,
+    "lon": 67.1774095
+  },
+  "Landhi No.1": {
+    "lat": 24.8351918,
+    "lon": 67.1774095
+  },
+  "Landhi No.4": {
+    "lat": 24.8351918,
+    "lon": 67.1774095
+  },
+  "Landhi No.6": {
+    "lat": 24.8351918,
+    "lon": 67.1774095
+  },
+  "Landhi No.6 to No.1": {
+    "lat": null,
+    "lon": null
+  },
+  "Landhi Petrol Pump": {
+    "lat": null,
+    "lon": null
+  },
+  "Landhi kotal": {
+    "lat": null,
+    "lon": null
+  },
+  "Landhi no. 3": {
+    "lat": 24.8351918,
+    "lon": 67.1774095
+  },
+  "Landhi no. 6": {
+    "lat": 24.8351918,
+    "lon": 67.1774095
+  },
+  "Landi No. 1": {
+    "lat": 24.9369527,
+    "lon": 67.0552788
+  },
+  "Landi No. 2": {
+    "lat": 24.9369527,
+    "lon": 67.0552788
+  },
+  "Landi No. 3": {
+    "lat": 24.9369527,
+    "lon": 67.0552788
+  },
+  "Landi No. 4": {
+    "lat": 24.9369527,
+    "lon": 67.0552788
+  },
+  "Landi No. 5": {
+    "lat": 24.9369527,
+    "lon": 67.0552788
+  },
+  "Landi No. 6": {
+    "lat": 24.9369527,
+    "lon": 67.0552788
+  },
+  "Lasbela": {
+    "lat": 24.8858107,
+    "lon": 67.032284
+  },
+  "Lasbela Chowk": {
+    "lat": 24.8857871,
+    "lon": 67.0345011
+  },
+  "Lasbela House": {
+    "lat": null,
+    "lon": null
+  },
+  "Lasbella": {
+    "lat": 24.8857788,
+    "lon": 67.0344599
+  },
+  "Lasbella Chowk": {
+    "lat": 24.8873763,
+    "lon": 67.0329181
+  },
+  "Lashari Village": {
+    "lat": null,
+    "lon": null
+  },
+  "Lawrance Road": {
+    "lat": 24.8796477,
+    "lon": 67.0328307
+  },
+  "Lawrence Road": {
+    "lat": 24.879247,
+    "lon": 67.0329694
+  },
+  "Lea Market": {
+    "lat": 24.8605886,
+    "lon": 67.0003087
+  },
+  "Lee Market": {
+    "lat": 24.8597993,
+    "lon": 67.0158198
+  },
+  "Leemu Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Lesbella": {
+    "lat": null,
+    "lon": null
+  },
+  "Liaquat Abad No. 10": {
+    "lat": 24.9233578,
+    "lon": 67.0680278
+  },
+  "Liaquat Hospital": {
+    "lat": 24.893116,
+    "lon": 67.0684484
+  },
+  "Liaquat Market": {
+    "lat": 24.8931455,
+    "lon": 67.194631
+  },
+  "Liaquat Medical Hospital": {
+    "lat": 24.8904754,
+    "lon": 67.0676323
+  },
+  "Liaquat No. 10": {
+    "lat": 24.8668056,
+    "lon": 67.0477013
+  },
+  "Liaquat hospital": {
+    "lat": 24.893116,
+    "lon": 67.0684484
+  },
+  "Liaquatabad": {
+    "lat": 24.9029771,
+    "lon": 67.0386279
+  },
+  "Liaquatabad No 10": {
+    "lat": 24.9029771,
+    "lon": 67.0386279
+  },
+  "Liaquatabad No. 10": {
+    "lat": 24.9029771,
+    "lon": 67.0386279
+  },
+  "Liaquatabad No. 16": {
+    "lat": 24.9029771,
+    "lon": 67.0386279
+  },
+  "Liaquatabad No. 4": {
+    "lat": 24.9029771,
+    "lon": 67.0386279
+  },
+  "Liaquatabad No.10": {
+    "lat": 24.9029771,
+    "lon": 67.0386279
+  },
+  "Liaquatabad Post Office": {
+    "lat": 24.8984217,
+    "lon": 67.0311552
+  },
+  "Light House": {
+    "lat": 24.7939698,
+    "lon": 66.9775751
+  },
+  "Light house": {
+    "lat": 24.7939698,
+    "lon": 66.9775751
+  },
+  "Lilly Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Liqautabad": {
+    "lat": null,
+    "lon": null
+  },
+  "Long Lehar": {
+    "lat": null,
+    "lon": null
+  },
+  "Luck Star Hotel": {
+    "lat": null,
+    "lon": null
+  },
+  "Lucky Star": {
+    "lat": 24.8602064,
+    "lon": 67.207863
+  },
+  "Lucky Star Hotel": {
+    "lat": 24.9243407,
+    "lon": 67.0645066
+  },
+  "Lucky star": {
+    "lat": 24.8602064,
+    "lon": 67.207863
+  },
+  "Lucky star(Asghar shaheed Road)": {
+    "lat": null,
+    "lon": null
+  },
+  "Luxury Appartments Habibia Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Lyari Hospital": {
+    "lat": 24.8722653,
+    "lon": 66.9852875
+  },
+  "M.A": {
+    "lat": 24.9322287,
+    "lon": 67.0697087
+  },
+  "M.A Ghazi": {
+    "lat": 24.9215198,
+    "lon": 66.9676745
+  },
+  "M.A Jinnah": {
+    "lat": 24.8513287,
+    "lon": 67.0017386
+  },
+  "M.A Jinnah Raod": {
+    "lat": null,
+    "lon": null
+  },
+  "M.A Jinnah Road": {
+    "lat": 24.8468593,
+    "lon": 66.9934587
+  },
+  "M.A JinnahRoad": {
+    "lat": null,
+    "lon": null
+  },
+  "M.A jinnah Road": {
+    "lat": 24.8468593,
+    "lon": 66.9934587
+  },
+  "M.A.Jinnah Road": {
+    "lat": 24.8468631,
+    "lon": 66.9936565
+  },
+  "M.AJinnah Road": {
+    "lat": null,
+    "lon": null
+  },
+  "M.E.S": {
+    "lat": 24.8452044,
+    "lon": 66.9962612
+  },
+  "M.P.R Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "M.R Kiyan Road": {
+    "lat": null,
+    "lon": null
+  },
+  "M.R Kiyani Road": {
+    "lat": null,
+    "lon": null
+  },
+  "M.T Khan Road": {
+    "lat": 24.8434525,
+    "lon": 67.0071715
+  },
+  "M.W Tower": {
+    "lat": null,
+    "lon": null
+  },
+  "M.W tower": {
+    "lat": null,
+    "lon": null
+  },
+  "MAzar-e-Quaid": {
+    "lat": 24.8746966,
+    "lon": 67.0393217
+  },
+  "Ma": {
+    "lat": 24.8546842,
+    "lon": 67.0207055
+  },
+  "Machine Tool Factory": {
+    "lat": 24.8394175,
+    "lon": 67.2532666
+  },
+  "Madina Colony": {
+    "lat": 24.8820226,
+    "lon": 67.0219999
+  },
+  "Madina Colony No 5": {
+    "lat": 24.8820226,
+    "lon": 67.0219999
+  },
+  "Madni Goth": {
+    "lat": 24.8809448,
+    "lon": 67.0596674
+  },
+  "Madrassa-e-Anwarul Uloom": {
+    "lat": null,
+    "lon": null
+  },
+  "Mahmood Abad No. 6": {
+    "lat": null,
+    "lon": null
+  },
+  "Mahmoodabad": {
+    "lat": 24.9005005,
+    "lon": 67.0292892
+  },
+  "Mahmoodabad No. 6": {
+    "lat": 24.9005005,
+    "lon": 67.0292892
+  },
+  "Mahtab Cinema": {
+    "lat": null,
+    "lon": null
+  },
+  "Mai Colachi Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Mai Kalachi Road": {
+    "lat": 24.9220191,
+    "lon": 66.9632498
+  },
+  "Mai Kolachi Road": {
+    "lat": 24.8282256,
+    "lon": 67.0201655
+  },
+  "Main Clifton": {
+    "lat": 24.8279383,
+    "lon": 67.0336985
+  },
+  "Main Clifton Road": {
+    "lat": 24.8279383,
+    "lon": 67.0336985
+  },
+  "Mair 15": {
+    "lat": null,
+    "lon": null
+  },
+  "Maison Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Majeed Colony Sec No. 2": {
+    "lat": null,
+    "lon": null
+  },
+  "Makki Masjid": {
+    "lat": 24.9803196,
+    "lon": 67.2151913
+  },
+  "Malir": {
+    "lat": 24.8773046,
+    "lon": 67.1902424
+  },
+  "Malir 15": {
+    "lat": 24.8790242,
+    "lon": 67.1882644
+  },
+  "Malir Cantt": {
+    "lat": 24.9519357,
+    "lon": 67.2262313
+  },
+  "Malir Chowk": {
+    "lat": 24.8467895,
+    "lon": 67.2133591
+  },
+  "Malir City": {
+    "lat": 24.8791896,
+    "lon": 67.1881033
+  },
+  "Malir City No. 15": {
+    "lat": 24.8791896,
+    "lon": 67.1881033
+  },
+  "Malir City Petrol Pump": {
+    "lat": null,
+    "lon": null
+  },
+  "Malir Halt": {
+    "lat": 24.8844268,
+    "lon": 67.1745528
+  },
+  "Malir Mandir": {
+    "lat": 24.8754713,
+    "lon": 67.1933307
+  },
+  "Malir No. 15": {
+    "lat": 24.8959185,
+    "lon": 67.1969187
+  },
+  "Malir No.15": {
+    "lat": 24.8959185,
+    "lon": 67.1969187
+  },
+  "Malir Road": {
+    "lat": 24.8586011,
+    "lon": 67.034936
+  },
+  "Malir Scheme No. 1": {
+    "lat": 24.8800518,
+    "lon": 67.4007813
+  },
+  "Malir Tanki": {
+    "lat": null,
+    "lon": null
+  },
+  "Malir city": {
+    "lat": 24.8791896,
+    "lon": 67.1881033
+  },
+  "Malir malt": {
+    "lat": null,
+    "lon": null
+  },
+  "MalirCity": {
+    "lat": null,
+    "lon": null
+  },
+  "Malook Hotel": {
+    "lat": null,
+    "lon": null
+  },
+  "Manghopir": {
+    "lat": 24.9956895,
+    "lon": 67.0311233
+  },
+  "Manghopir Road": {
+    "lat": 24.9229183,
+    "lon": 67.0147958
+  },
+  "Manghopir mazar": {
+    "lat": null,
+    "lon": null
+  },
+  "Manghopir police Station": {
+    "lat": 24.9847442,
+    "lon": 67.0386799
+  },
+  "Mangopir": {
+    "lat": 24.9612349,
+    "lon": 67.0305112
+  },
+  "Manhgopir Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Mansehra": {
+    "lat": 24.8574063,
+    "lon": 67.1871262
+  },
+  "Mansehra Colony": {
+    "lat": 24.8574063,
+    "lon": 67.1871262
+  },
+  "Manserah Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Mansfelf Street": {
+    "lat": null,
+    "lon": null
+  },
+  "Mansfield": {
+    "lat": 24.860307,
+    "lon": 67.0319283
+  },
+  "Mansfield Street": {
+    "lat": 24.8648308,
+    "lon": 67.0294183
+  },
+  "Mansfield street": {
+    "lat": 24.8648308,
+    "lon": 67.0294183
+  },
+  "Mansoor Nagar": {
+    "lat": 24.9686693,
+    "lon": 66.9824209
+  },
+  "Mansoor nagar": {
+    "lat": 24.9686693,
+    "lon": 66.9824209
+  },
+  "Manzil Pump": {
+    "lat": null,
+    "lon": null
+  },
+  "Manzoor Colony": {
+    "lat": 24.84588,
+    "lon": 67.0873347
+  },
+  "Mari Pur": {
+    "lat": null,
+    "lon": null
+  },
+  "Maria Hill Luxury Appartments": {
+    "lat": null,
+    "lon": null
+  },
+  "Maria Hill View": {
+    "lat": null,
+    "lon": null
+  },
+  "Marine Road": {
+    "lat": 24.8273231,
+    "lon": 67.0364311
+  },
+  "Maripur": {
+    "lat": 24.8829386,
+    "lon": 66.9129303
+  },
+  "Market": {
+    "lat": 24.8175861,
+    "lon": 67.0044012
+  },
+  "Market 6": {
+    "lat": 24.8175861,
+    "lon": 67.0044012
+  },
+  "Market No 6": {
+    "lat": 24.8175861,
+    "lon": 67.0044012
+  },
+  "Market No. 6": {
+    "lat": 24.8175861,
+    "lon": 67.0044012
+  },
+  "Maroon Mill": {
+    "lat": null,
+    "lon": null
+  },
+  "Maroora Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Maror Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Marriet Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Martin Road": {
+    "lat": 24.8909713,
+    "lon": 67.0491491
+  },
+  "Masan Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Masid-e-Khizra": {
+    "lat": null,
+    "lon": null
+  },
+  "Masjid Abrar": {
+    "lat": 24.9098077,
+    "lon": 67.0791593
+  },
+  "Masjid Adamjee Nagar": {
+    "lat": null,
+    "lon": null
+  },
+  "Masjid-e- khizra": {
+    "lat": 24.8782446,
+    "lon": 67.1476136
+  },
+  "Masjid-e-Khizra": {
+    "lat": 24.8782446,
+    "lon": 67.1476136
+  },
+  "Masjid-e-Khizran": {
+    "lat": null,
+    "lon": null
+  },
+  "Masjid-e-Quba": {
+    "lat": 24.9135449,
+    "lon": 66.9553604
+  },
+  "Masjid-e-Usman": {
+    "lat": 24.8002057,
+    "lon": 67.0339936
+  },
+  "Masjid-e-khizra": {
+    "lat": 24.8782446,
+    "lon": 67.1476136
+  },
+  "Maskan": {
+    "lat": 24.9341008,
+    "lon": 67.1026719
+  },
+  "Mason Road": {
+    "lat": 24.8214766,
+    "lon": 66.9787162
+  },
+  "Masroor Colony": {
+    "lat": 24.8945612,
+    "lon": 66.945057
+  },
+  "Match Factory": {
+    "lat": null,
+    "lon": null
+  },
+  "Mauri Pur": {
+    "lat": null,
+    "lon": null
+  },
+  "Mauripur": {
+    "lat": 24.8795902,
+    "lon": 66.9114511
+  },
+  "Mauripur Road": {
+    "lat": 24.8675298,
+    "lon": 66.9415074
+  },
+  "Mauripur Truck Adda": {
+    "lat": null,
+    "lon": null
+  },
+  "Mauripur Village": {
+    "lat": null,
+    "lon": null
+  },
+  "Mawach Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Maymar Complex": {
+    "lat": null,
+    "lon": null
+  },
+  "Maymar Plaza": {
+    "lat": null,
+    "lon": null
+  },
+  "Maymar Town": {
+    "lat": 25.0223271,
+    "lon": 67.1345412
+  },
+  "Maymarabad": {
+    "lat": 25.016421,
+    "lon": 67.0620272
+  },
+  "Mazar Abdullah Ghazi": {
+    "lat": null,
+    "lon": null
+  },
+  "Mazar Abdullah Shah Ghazi": {
+    "lat": null,
+    "lon": null
+  },
+  "Mazar quaid-e-azam": {
+    "lat": 24.8746966,
+    "lon": 67.0393217
+  },
+  "Mazar-e-Quaid": {
+    "lat": 24.8746966,
+    "lon": 67.0393217
+  },
+  "Mcleod Road": {
+    "lat": 24.8491113,
+    "lon": 67.0012571
+  },
+  "Meesa Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Meesa lane": {
+    "lat": null,
+    "lon": null
+  },
+  "Mehata palace": {
+    "lat": null,
+    "lon": null
+  },
+  "Mehmodabad": {
+    "lat": 24.8569279,
+    "lon": 67.075817
+  },
+  "Mehmodabad No.6": {
+    "lat": null,
+    "lon": null
+  },
+  "Mehmoodabad": {
+    "lat": 24.8507777,
+    "lon": 67.07301
+  },
+  "Mehmoodabad Gate": {
+    "lat": null,
+    "lon": null
+  },
+  "Mehmoodabad No. 5": {
+    "lat": 24.8507777,
+    "lon": 67.07301
+  },
+  "Mehmoodabad No. 6": {
+    "lat": 24.8507777,
+    "lon": 67.07301
+  },
+  "Mehmoodabad No. 6. New Split Level Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Mehran Depot": {
+    "lat": null,
+    "lon": null
+  },
+  "Mehran Hotel": {
+    "lat": 24.8517571,
+    "lon": 67.0339393
+  },
+  "Memom Goth": {
+    "lat": 24.8810654,
+    "lon": 67.0505027
+  },
+  "Memon Goth": {
+    "lat": 24.9203449,
+    "lon": 67.2516126
+  },
+  "Memon Mullah Issa Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Memon Society": {
+    "lat": 24.86872,
+    "lon": 67.0745322
+  },
+  "Memon goth": {
+    "lat": 24.9203449,
+    "lon": 67.2516126
+  },
+  "Mereweather Tower": {
+    "lat": null,
+    "lon": null
+  },
+  "Meshang Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Metriville": {
+    "lat": null,
+    "lon": null
+  },
+  "Metro": {
+    "lat": 24.8877573,
+    "lon": 67.1521101
+  },
+  "Metro Cinema": {
+    "lat": 24.9358484,
+    "lon": 67.0094257
+  },
+  "Metrologecal Department": {
+    "lat": null,
+    "lon": null
+  },
+  "Metrological Office": {
+    "lat": null,
+    "lon": null
+  },
+  "Metropo": {
+    "lat": null,
+    "lon": null
+  },
+  "Metropol": {
+    "lat": null,
+    "lon": null
+  },
+  "Metropole hotel": {
+    "lat": 24.8504651,
+    "lon": 67.0301733
+  },
+  "Metropolitan Steel Corporation": {
+    "lat": null,
+    "lon": null
+  },
+  "Metroville": {
+    "lat": 24.9307539,
+    "lon": 66.9979069
+  },
+  "Metroville 2": {
+    "lat": 24.9307539,
+    "lon": 66.9979069
+  },
+  "Metroville 3": {
+    "lat": 24.9441206,
+    "lon": 67.1034363
+  },
+  "Metroville-III": {
+    "lat": 24.9467604,
+    "lon": 67.1018526
+  },
+  "Mian Wali Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Mian dad goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Mianwali": {
+    "lat": 24.8627627,
+    "lon": 66.9894506
+  },
+  "Mianwali Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Mid East Hospital": {
+    "lat": null,
+    "lon": null
+  },
+  "Mill Area": {
+    "lat": 24.9378924,
+    "lon": 67.0854602
+  },
+  "Millat Town": {
+    "lat": 24.87216,
+    "lon": 67.1705412
+  },
+  "Mills Area": {
+    "lat": 24.883276,
+    "lon": 67.0656927
+  },
+  "Mir Karam Ali Talpur Road": {
+    "lat": 24.8614783,
+    "lon": 67.0301625
+  },
+  "Mir Karim Ali Talpur Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Mir Kran Ali Talpur Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Mir karam Ali Talpur Road": {
+    "lat": 24.8614783,
+    "lon": 67.0301625
+  },
+  "Mir karam ali talpur Road": {
+    "lat": 24.8614783,
+    "lon": 67.0301625
+  },
+  "Mir naka": {
+    "lat": null,
+    "lon": null
+  },
+  "Mira Naka": {
+    "lat": null,
+    "lon": null
+  },
+  "Mira adam Khan Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Mira naka": {
+    "lat": null,
+    "lon": null
+  },
+  "Miran Naka": {
+    "lat": 24.8794843,
+    "lon": 66.9956482
+  },
+  "Mirza Adam Khan Road": {
+    "lat": 24.8801665,
+    "lon": 66.9996725
+  },
+  "Mirza adam khan Road": {
+    "lat": 24.8801665,
+    "lon": 66.9996725
+  },
+  "Moach Goth": {
+    "lat": 24.9232517,
+    "lon": 66.9467442
+  },
+  "Moach goth": {
+    "lat": 24.9232517,
+    "lon": 66.9467442
+  },
+  "Moch Goth": {
+    "lat": 24.9345201,
+    "lon": 66.9449538
+  },
+  "Model Colony": {
+    "lat": 24.9068326,
+    "lon": 67.1894182
+  },
+  "Model Colony Malir Halt": {
+    "lat": null,
+    "lon": null
+  },
+  "Model Village": {
+    "lat": 24.8911762,
+    "lon": 67.2047253
+  },
+  "Moenabad": {
+    "lat": null,
+    "lon": null
+  },
+  "Mohabbat khanji Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Mohajir Camp": {
+    "lat": 24.9149461,
+    "lon": 66.9727647
+  },
+  "Mohajir Camp No. 19-D": {
+    "lat": null,
+    "lon": null
+  },
+  "Mohajir Camp No. 7": {
+    "lat": null,
+    "lon": null
+  },
+  "Mohajir Camp No. 8": {
+    "lat": null,
+    "lon": null
+  },
+  "Mohajir Camp No.4": {
+    "lat": null,
+    "lon": null
+  },
+  "Mohajir Camp No.7": {
+    "lat": null,
+    "lon": null
+  },
+  "Mohajir camp": {
+    "lat": 24.9149461,
+    "lon": 66.9727647
+  },
+  "Mohajir camp 7-1/2": {
+    "lat": null,
+    "lon": null
+  },
+  "Mohajir camp No 7-1/2": {
+    "lat": null,
+    "lon": null
+  },
+  "Mohammad Khan Colony": {
+    "lat": 24.9449869,
+    "lon": 66.9660721
+  },
+  "Mohammad Khan Goth": {
+    "lat": 24.9883869,
+    "lon": 67.1045801
+  },
+  "Mohammad Murad Gokhia Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Mohammad bin qasim Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Mohammad khan goth": {
+    "lat": 24.9883869,
+    "lon": 67.1045801
+  },
+  "Mohan Road": {
+    "lat": 24.85817,
+    "lon": 67.0184369
+  },
+  "Molvi Tameez-uddin Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Mominabad": {
+    "lat": 24.9304645,
+    "lon": 66.9917469
+  },
+  "Moosa Colony": {
+    "lat": 24.92013,
+    "lon": 67.0489994
+  },
+  "Moosa Hotel": {
+    "lat": null,
+    "lon": null
+  },
+  "Moosa Lane": {
+    "lat": 24.857097,
+    "lon": 66.9973048
+  },
+  "Moria Faqir Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Mosa Lane": {
+    "lat": null,
+    "lon": null
+  },
+  "Mosamiat": {
+    "lat": 24.9360112,
+    "lon": 67.1376597
+  },
+  "Moti Mahal": {
+    "lat": 24.8838039,
+    "lon": 67.0672128
+  },
+  "Moti Mahal No. 1": {
+    "lat": null,
+    "lon": null
+  },
+  "Moti Mehal": {
+    "lat": null,
+    "lon": null
+  },
+  "Motti Mahal": {
+    "lat": null,
+    "lon": null
+  },
+  "Mouch Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Mouchi Mor No 5": {
+    "lat": null,
+    "lon": null
+  },
+  "Mouchi Mour": {
+    "lat": null,
+    "lon": null
+  },
+  "MuBarak Masjid": {
+    "lat": 24.7953957,
+    "lon": 67.0433229
+  },
+  "MuBarak Shaheed Road": {
+    "lat": 24.8627489,
+    "lon": 67.0350723
+  },
+  "Muderwah": {
+    "lat": null,
+    "lon": null
+  },
+  "Muhajir Camp": {
+    "lat": 24.9075095,
+    "lon": 66.9638897
+  },
+  "Muhajir Camp No. 4": {
+    "lat": 24.9075095,
+    "lon": 66.9638897
+  },
+  "Muhajir Camp No. 5": {
+    "lat": 24.9075095,
+    "lon": 66.9638897
+  },
+  "Muhajir Camp No.7": {
+    "lat": 24.9075095,
+    "lon": 66.9638897
+  },
+  "Muhammad Ali Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Muhammadi Chowk": {
+    "lat": 24.9208798,
+    "lon": 67.0211951
+  },
+  "Mulla Issa": {
+    "lat": null,
+    "lon": null
+  },
+  "Mullah Issa Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Municipal Dispensary": {
+    "lat": null,
+    "lon": null
+  },
+  "Murad Memon Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Murghee Khana": {
+    "lat": null,
+    "lon": null
+  },
+  "Murshid Bazar": {
+    "lat": 24.8597762,
+    "lon": 67.0299137
+  },
+  "Murtaza Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Muscut Industries": {
+    "lat": null,
+    "lon": null
+  },
+  "Muslim League Quarters": {
+    "lat": null,
+    "lon": null
+  },
+  "Muslimabad": {
+    "lat": 24.8777203,
+    "lon": 67.0497813
+  },
+  "Mustafabad Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Muzafarabad": {
+    "lat": 24.9375995,
+    "lon": 67.0395232
+  },
+  "Muzafarabad Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Muzaffarabad Colony": {
+    "lat": 24.8291934,
+    "lon": 67.2298522
+  },
+  "Muzaffarbad Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Myrghi Khana": {
+    "lat": null,
+    "lon": null
+  },
+  "N.I.P.A": {
+    "lat": 24.889122,
+    "lon": 67.1492879
+  },
+  "N.I.P.A Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "N.S.C Building": {
+    "lat": null,
+    "lon": null
+  },
+  "NSC Building": {
+    "lat": null,
+    "lon": null
+  },
+  "Na Abadi": {
+    "lat": 24.9113446,
+    "lon": 67.0943695
+  },
+  "Nabbu Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Nadi Kinara": {
+    "lat": 24.9105481,
+    "lon": 67.2243149
+  },
+  "Nafees Cinema": {
+    "lat": 24.8898446,
+    "lon": 67.1988458
+  },
+  "Nagan Chowrangi": {
+    "lat": 24.9650421,
+    "lon": 67.0668664
+  },
+  "Nagin Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Nagina cinema": {
+    "lat": null,
+    "lon": null
+  },
+  "Nai Abadi": {
+    "lat": 24.9170133,
+    "lon": 66.9626852
+  },
+  "Nai Abadi 5-D-1": {
+    "lat": 24.9170133,
+    "lon": 66.9626852
+  },
+  "Nai Abadi 5-D-4": {
+    "lat": 24.9170133,
+    "lon": 66.9626852
+  },
+  "Naiabadi": {
+    "lat": null,
+    "lon": null
+  },
+  "Naibadi. Manghopir Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Nairang": {
+    "lat": null,
+    "lon": null
+  },
+  "Nala": {
+    "lat": 24.8979844,
+    "lon": 67.0392275
+  },
+  "Nala No 1": {
+    "lat": null,
+    "lon": null
+  },
+  "Napier Police Station": {
+    "lat": 24.8614463,
+    "lon": 67.0007758
+  },
+  "Napier Road": {
+    "lat": 24.8553326,
+    "lon": 67.0044976
+  },
+  "Naseerabad": {
+    "lat": 24.9326064,
+    "lon": 67.0741284
+  },
+  "Nasir Colony": {
+    "lat": 24.8215066,
+    "lon": 67.1277953
+  },
+  "Nasirabad": {
+    "lat": 24.9935388,
+    "lon": 67.0771572
+  },
+  "Nata Khan": {
+    "lat": 24.8835251,
+    "lon": 67.1365798
+  },
+  "Natha Khan Goth": {
+    "lat": 24.8848113,
+    "lon": 67.1361423
+  },
+  "Natha khan Goth": {
+    "lat": 24.8848113,
+    "lon": 67.1361423
+  },
+  "NathaKhan Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "National Cement": {
+    "lat": 24.9092952,
+    "lon": 67.1052711
+  },
+  "National Cement Factory": {
+    "lat": null,
+    "lon": null
+  },
+  "National Highway": {
+    "lat": 24.8652998,
+    "lon": 67.2043699
+  },
+  "National Motors": {
+    "lat": 24.8544884,
+    "lon": 67.2431689
+  },
+  "National Museum": {
+    "lat": 24.8527106,
+    "lon": 67.0176137
+  },
+  "National Stadium": {
+    "lat": 24.8952212,
+    "lon": 67.0816725
+  },
+  "National Stadium Road": {
+    "lat": 24.8952212,
+    "lon": 67.0816725
+  },
+  "National Super Highway": {
+    "lat": null,
+    "lon": null
+  },
+  "National cement Ffactory": {
+    "lat": null,
+    "lon": null
+  },
+  "National highway": {
+    "lat": 24.8600584,
+    "lon": 67.2755951
+  },
+  "National stadium": {
+    "lat": 24.8952212,
+    "lon": 67.0816725
+  },
+  "Native jetty": {
+    "lat": null,
+    "lon": null
+  },
+  "Naval Colony": {
+    "lat": 24.9467025,
+    "lon": 66.9382883
+  },
+  "Naval Colony( Hub River Road)": {
+    "lat": null,
+    "lon": null
+  },
+  "Naval Quaters": {
+    "lat": null,
+    "lon": null
+  },
+  "Nazimabad": {
+    "lat": 24.905865,
+    "lon": 67.0307183
+  },
+  "Nazimabad Board": {
+    "lat": 24.9244948,
+    "lon": 67.0321749
+  },
+  "Nazimabad Chowrangi": {
+    "lat": 24.9009011,
+    "lon": 67.0299146
+  },
+  "Nazimabad Chowrangi 1": {
+    "lat": 24.9009011,
+    "lon": 67.0299146
+  },
+  "Nazimabad Chowrangi 2": {
+    "lat": null,
+    "lon": null
+  },
+  "Nazimabad Chowrangi No 1": {
+    "lat": null,
+    "lon": null
+  },
+  "Nazimabad Chowrangi No. 1": {
+    "lat": null,
+    "lon": null
+  },
+  "Nazimabad No 2": {
+    "lat": 24.905865,
+    "lon": 67.0307183
+  },
+  "Nazimabad No 7": {
+    "lat": 24.905865,
+    "lon": 67.0307183
+  },
+  "Nazimabad No. 1": {
+    "lat": 24.905865,
+    "lon": 67.0307183
+  },
+  "Nazimabad No. 2": {
+    "lat": 24.905865,
+    "lon": 67.0307183
+  },
+  "Nazimabad No. 3": {
+    "lat": 24.905865,
+    "lon": 67.0307183
+  },
+  "Nazimabad No. 4": {
+    "lat": 24.905865,
+    "lon": 67.0307183
+  },
+  "Nazimabad No. 6": {
+    "lat": 24.905865,
+    "lon": 67.0307183
+  },
+  "Nazimabad No. 7": {
+    "lat": 24.905865,
+    "lon": 67.0307183
+  },
+  "Nazimabad No.1": {
+    "lat": 24.905865,
+    "lon": 67.0307183
+  },
+  "Nazimabad No.2": {
+    "lat": 24.905865,
+    "lon": 67.0307183
+  },
+  "Nazimabad Petrol Pump": {
+    "lat": 24.9361437,
+    "lon": 67.0758445
+  },
+  "Nazimabad Post Office": {
+    "lat": 24.9076797,
+    "lon": 67.0261462
+  },
+  "Nazimabd": {
+    "lat": 24.9065266,
+    "lon": 67.0326401
+  },
+  "Nazrul Islam Road": {
+    "lat": 24.8724393,
+    "lon": 67.0512581
+  },
+  "Netti Jatti": {
+    "lat": null,
+    "lon": null
+  },
+  "New Abadi": {
+    "lat": 24.923704,
+    "lon": 66.9685215
+  },
+  "New Abadi Sector 5-D": {
+    "lat": null,
+    "lon": null
+  },
+  "New Abadi Sector 5-F Area": {
+    "lat": null,
+    "lon": null
+  },
+  "New Bridge Baloch Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "New BundChowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "New Dhoraji Colony": {
+    "lat": 24.8893295,
+    "lon": 67.0777183
+  },
+  "New Karachi": {
+    "lat": 24.9725357,
+    "lon": 67.0669523
+  },
+  "New Karachi 5-D": {
+    "lat": 24.9725357,
+    "lon": 67.0669523
+  },
+  "New Karachi 5-F Allahwala Masjid": {
+    "lat": null,
+    "lon": null
+  },
+  "New Karachi Block 5-F": {
+    "lat": null,
+    "lon": null
+  },
+  "New Karachi Nai Abadi": {
+    "lat": 24.9135612,
+    "lon": 66.9718017
+  },
+  "New Karachi No 1": {
+    "lat": 24.9725357,
+    "lon": 67.0669523
+  },
+  "New Karachi No 3": {
+    "lat": 24.9725357,
+    "lon": 67.0669523
+  },
+  "New Karachi No. 1": {
+    "lat": 24.9725357,
+    "lon": 67.0669523
+  },
+  "New Karachi No. 2": {
+    "lat": 24.9725357,
+    "lon": 67.0669523
+  },
+  "New Karachi No. 3": {
+    "lat": 24.9725357,
+    "lon": 67.0669523
+  },
+  "New Karachi No. 5": {
+    "lat": 24.9725357,
+    "lon": 67.0669523
+  },
+  "New Karachi Sector 11-J": {
+    "lat": 24.9879575,
+    "lon": 67.0651236
+  },
+  "New Karachi Sector 5": {
+    "lat": 25.007286,
+    "lon": 67.0768994
+  },
+  "New Karachi Sector 5-D": {
+    "lat": 25.007286,
+    "lon": 67.0768994
+  },
+  "New Karachi Sector 5-E": {
+    "lat": 24.9919091,
+    "lon": 67.0709951
+  },
+  "New Karachi Sector II-C": {
+    "lat": null,
+    "lon": null
+  },
+  "New Karachi Sector No. 5-B": {
+    "lat": null,
+    "lon": null
+  },
+  "New Karachi Sector No. 5-C": {
+    "lat": 24.8363849,
+    "lon": 67.1425897
+  },
+  "New Karachi allahwala masjid": {
+    "lat": null,
+    "lon": null
+  },
+  "New KarachiSector II-E Area": {
+    "lat": null,
+    "lon": null
+  },
+  "New Karahci Saindad Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "New Kenker": {
+    "lat": null,
+    "lon": null
+  },
+  "New Link Road": {
+    "lat": 24.9454565,
+    "lon": 67.1602173
+  },
+  "New M.A Jinnah Road": {
+    "lat": 24.8660413,
+    "lon": 67.0374894
+  },
+  "New Muzafarabad": {
+    "lat": 24.9375995,
+    "lon": 67.0395232
+  },
+  "New Muzaffarabad Colony": {
+    "lat": 24.8256515,
+    "lon": 67.2249258
+  },
+  "New Queens way": {
+    "lat": null,
+    "lon": null
+  },
+  "New Race Course": {
+    "lat": null,
+    "lon": null
+  },
+  "New Sabzi Mandi": {
+    "lat": null,
+    "lon": null
+  },
+  "New Saeedabad Police Training School": {
+    "lat": null,
+    "lon": null
+  },
+  "New Sultanabad": {
+    "lat": 24.9755077,
+    "lon": 67.0151814
+  },
+  "New Town": {
+    "lat": 24.9948533,
+    "lon": 67.0642997
+  },
+  "New Town Chowrangi": {
+    "lat": 24.9253629,
+    "lon": 67.0924054
+  },
+  "New Town Masjid": {
+    "lat": 24.9312719,
+    "lon": 66.9860983
+  },
+  "New Town Mosque": {
+    "lat": null,
+    "lon": null
+  },
+  "New Town Police Station": {
+    "lat": 24.8888121,
+    "lon": 67.0604742
+  },
+  "New sabzi mandi B-10": {
+    "lat": null,
+    "lon": null
+  },
+  "Nigar Cinema": {
+    "lat": 24.8579291,
+    "lon": 67.0033704
+  },
+  "Nihal Hospital": {
+    "lat": null,
+    "lon": null
+  },
+  "Nishan- e-Hyder Road No. 5": {
+    "lat": null,
+    "lon": null
+  },
+  "Nishtar Road": {
+    "lat": 24.8883645,
+    "lon": 67.0343589
+  },
+  "Nishter Road": {
+    "lat": 24.8885837,
+    "lon": 67.0330235
+  },
+  "Nizamabad PetrolPump": {
+    "lat": null,
+    "lon": null
+  },
+  "No.10": {
+    "lat": 24.8546842,
+    "lon": 67.0207055
+  },
+  "No.4": {
+    "lat": 24.8546842,
+    "lon": 67.0207055
+  },
+  "Nomaish": {
+    "lat": null,
+    "lon": null
+  },
+  "Noor masjid": {
+    "lat": 24.8658118,
+    "lon": 67.0179862
+  },
+  "Noorani Masjid": {
+    "lat": 24.9428381,
+    "lon": 66.9635943
+  },
+  "Noorani Masjid Block 20 Fedral B. Area": {
+    "lat": null,
+    "lon": null
+  },
+  "North Karachi": {
+    "lat": 24.9439091,
+    "lon": 67.0846314
+  },
+  "North Karachi 5-E": {
+    "lat": 24.9879575,
+    "lon": 67.0651236
+  },
+  "North Karachi Nai Abadi Kala School": {
+    "lat": null,
+    "lon": null
+  },
+  "North Karachi Sector 2": {
+    "lat": 25.0024748,
+    "lon": 67.0523143
+  },
+  "North Karachi Sector 3": {
+    "lat": 24.9965035,
+    "lon": 67.0530948
+  },
+  "North Karachi Sector 4": {
+    "lat": 24.9884769,
+    "lon": 67.0534716
+  },
+  "North Karachi Sector 5": {
+    "lat": 24.9963385,
+    "lon": 67.0698599
+  },
+  "North Karachi Sector 5-A": {
+    "lat": 24.9879575,
+    "lon": 67.0651236
+  },
+  "North Karachi Sector 5-B": {
+    "lat": 24.9963385,
+    "lon": 67.0698599
+  },
+  "North Karachi Sector No. 2": {
+    "lat": 24.977526,
+    "lon": 67.0890925
+  },
+  "North Karachi Sector No. 5-I": {
+    "lat": null,
+    "lon": null
+  },
+  "North Nazimabad": {
+    "lat": 24.9424616,
+    "lon": 67.0477185
+  },
+  "North Nazimabad Block M": {
+    "lat": 24.9450699,
+    "lon": 67.0569223
+  },
+  "Numaish": {
+    "lat": 24.8720773,
+    "lon": 67.0341289
+  },
+  "Nursary": {
+    "lat": 24.9023013,
+    "lon": 67.0510113
+  },
+  "Nursery": {
+    "lat": 24.9163873,
+    "lon": 67.1224255
+  },
+  "Nursey": {
+    "lat": null,
+    "lon": null
+  },
+  "Nusery": {
+    "lat": null,
+    "lon": null
+  },
+  "Nusrat Bhutto Colony": {
+    "lat": 24.9627879,
+    "lon": 67.0460277
+  },
+  "Nusrat Buttho Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Nusrat bhutto Colony": {
+    "lat": 24.9624416,
+    "lon": 67.047952
+  },
+  "Oil Piri Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Ojha Road": {
+    "lat": 24.8592615,
+    "lon": 67.016528
+  },
+  "Old Exhibition": {
+    "lat": null,
+    "lon": null
+  },
+  "Old Goli Maar": {
+    "lat": null,
+    "lon": null
+  },
+  "Old Golimar": {
+    "lat": 24.8887634,
+    "lon": 67.0195127
+  },
+  "Old Haji Camp": {
+    "lat": 24.8440461,
+    "lon": 67.0377769
+  },
+  "Old Haji Camp Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Old Nomaish": {
+    "lat": null,
+    "lon": null
+  },
+  "Old Numaish": {
+    "lat": null,
+    "lon": null
+  },
+  "Old Thana": {
+    "lat": null,
+    "lon": null
+  },
+  "Old exhibition": {
+    "lat": null,
+    "lon": null
+  },
+  "Old golimar": {
+    "lat": 24.8887634,
+    "lon": 67.0195127
+  },
+  "OldExhibition": {
+    "lat": null,
+    "lon": null
+  },
+  "Orang Town No. 5": {
+    "lat": null,
+    "lon": null
+  },
+  "Orangi No 1": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No 10": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No 13": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No 14": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No 4": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No 5": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No 8-1/2": {
+    "lat": null,
+    "lon": null
+  },
+  "Orangi No. 1": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No. 10": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No. 11 1/2": {
+    "lat": 24.9755911,
+    "lon": 67.0151485
+  },
+  "Orangi No. 12": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No. 13": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No. 14": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No. 16": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No. 4": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No. 5": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No. 6": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No. 7": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No. 8": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No.1": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No.13": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No.14": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No.7": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi No.8": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi Sector No. 1": {
+    "lat": 24.9568933,
+    "lon": 66.9961301
+  },
+  "Orangi Sector No. 13": {
+    "lat": 24.9513274,
+    "lon": 66.9978213
+  },
+  "Orangi Sector No. 14": {
+    "lat": 24.9329456,
+    "lon": 66.9988308
+  },
+  "Orangi Sector No. 5": {
+    "lat": 24.9513274,
+    "lon": 66.9978213
+  },
+  "Orangi Sector No. 7": {
+    "lat": 24.9568933,
+    "lon": 66.9961301
+  },
+  "Orangi Town": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi Town No 13": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi Town No 14": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi Town No. 1": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi Town No. 12": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi Town No. 13": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi Town No. 14": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi Town No. 4": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi Town No. 5": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi Town No. 6": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi Town No. 7": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi Town No. 8": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi Town No.14": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "Orangi Township": {
+    "lat": null,
+    "lon": null
+  },
+  "Orangi Township No. 10": {
+    "lat": null,
+    "lon": null
+  },
+  "P.A.F": {
+    "lat": 24.889122,
+    "lon": 67.1492879
+  },
+  "P.A.F Airport": {
+    "lat": null,
+    "lon": null
+  },
+  "P.A.F Masroor": {
+    "lat": null,
+    "lon": null
+  },
+  "P.A.F Stop Gate": {
+    "lat": null,
+    "lon": null
+  },
+  "P.A.T Colony": {
+    "lat": 24.8274298,
+    "lon": 67.0478984
+  },
+  "P.E.C.H.S": {
+    "lat": null,
+    "lon": null
+  },
+  "P.E.C.H.S society bus stop": {
+    "lat": null,
+    "lon": null
+  },
+  "P.I.B Colony": {
+    "lat": 24.8929141,
+    "lon": 67.0578583
+  },
+  "P.I.D.C": {
+    "lat": null,
+    "lon": null
+  },
+  "P.I.D.C House": {
+    "lat": 24.8462181,
+    "lon": 67.0249339
+  },
+  "P.M.T.F Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "P.N.S.C Building": {
+    "lat": null,
+    "lon": null
+  },
+  "P.O sindhi hotel": {
+    "lat": null,
+    "lon": null
+  },
+  "P.S Khuwaja Ajmer Nagri": {
+    "lat": null,
+    "lon": null
+  },
+  "PAF": {
+    "lat": 24.793749,
+    "lon": 67.1355977
+  },
+  "PAF Masroor": {
+    "lat": 24.8945612,
+    "lon": 66.945057
+  },
+  "PIB Colony": {
+    "lat": 24.8946548,
+    "lon": 67.053012
+  },
+  "PIDC": {
+    "lat": null,
+    "lon": null
+  },
+  "PIDC House": {
+    "lat": null,
+    "lon": null
+  },
+  "PMTF Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "PMTF Quaidabad": {
+    "lat": null,
+    "lon": null
+  },
+  "PNS Shifa": {
+    "lat": 24.8377751,
+    "lon": 67.0490542
+  },
+  "PNSC Building": {
+    "lat": 24.8442942,
+    "lon": 66.9929471
+  },
+  "Pahalwan Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Pahar Gang": {
+    "lat": null,
+    "lon": null
+  },
+  "Pahar Gang Abdullah College": {
+    "lat": null,
+    "lon": null
+  },
+  "Pahar Ganj": {
+    "lat": 24.941144,
+    "lon": 67.0272792
+  },
+  "Pahar ganj": {
+    "lat": 24.941144,
+    "lon": 67.0272792
+  },
+  "Pahlwan Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Pahlwan Goth Old Area": {
+    "lat": null,
+    "lon": null
+  },
+  "Pak Quarters": {
+    "lat": 24.8867307,
+    "lon": 67.0519096
+  },
+  "Pakistan Chowk": {
+    "lat": 24.8541602,
+    "lon": 67.0123583
+  },
+  "Pakistan Colony": {
+    "lat": 24.960993,
+    "lon": 66.9857873
+  },
+  "Pakistan Quarters": {
+    "lat": 24.8822836,
+    "lon": 67.0241399
+  },
+  "Pakistan Steel Mills": {
+    "lat": 24.805247,
+    "lon": 67.3465824
+  },
+  "Pakistan quaters": {
+    "lat": null,
+    "lon": null
+  },
+  "Panka Hotel": {
+    "lat": null,
+    "lon": null
+  },
+  "Pankha hotel": {
+    "lat": 24.8839157,
+    "lon": 66.9925867
+  },
+  "Paposh": {
+    "lat": 24.9243522,
+    "lon": 67.0199057
+  },
+  "Paposh Nagar": {
+    "lat": 24.9243522,
+    "lon": 67.0199057
+  },
+  "Paposh Petrol Pump": {
+    "lat": null,
+    "lon": null
+  },
+  "Paposh nagar": {
+    "lat": 24.9243522,
+    "lon": 67.0199057
+  },
+  "Paracha Mill": {
+    "lat": 24.8869556,
+    "lon": 66.9796912
+  },
+  "Pareshan Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Patel Para": {
+    "lat": 24.8810081,
+    "lon": 67.038289
+  },
+  "Pathan Colony": {
+    "lat": 24.9297723,
+    "lon": 67.0110312
+  },
+  "Peela School": {
+    "lat": 24.9061393,
+    "lon": 67.0241802
+  },
+  "Peer sarhandi Village": {
+    "lat": null,
+    "lon": null
+  },
+  "Pehalwan Goth": {
+    "lat": 24.8792289,
+    "lon": 67.0386817
+  },
+  "Peoples Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Peoples Colony": {
+    "lat": 24.9447964,
+    "lon": 67.0657815
+  },
+  "Petrol Pump": {
+    "lat": null,
+    "lon": null
+  },
+  "Petrol Pump Chowrangi": {
+    "lat": 24.9285936,
+    "lon": 67.1140333
+  },
+  "Petrol Pump Golimar": {
+    "lat": null,
+    "lon": null
+  },
+  "Petrol Pump Nazimabad No. 2": {
+    "lat": null,
+    "lon": null
+  },
+  "Philips Company": {
+    "lat": null,
+    "lon": null
+  },
+  "Picadilly": {
+    "lat": null,
+    "lon": null
+  },
+  "Pipri": {
+    "lat": 24.8579116,
+    "lon": 67.3122946
+  },
+  "Pir Bokhari": {
+    "lat": null,
+    "lon": null
+  },
+  "Pir Colony": {
+    "lat": 24.874476,
+    "lon": 67.0473078
+  },
+  "Pir Illahi Bux Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Pir Sahib Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Pirani Centre": {
+    "lat": null,
+    "lon": null
+  },
+  "Plaza": {
+    "lat": 24.847644,
+    "lon": 67.0003498
+  },
+  "Plaza Cinema": {
+    "lat": null,
+    "lon": null
+  },
+  "Poeples Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Police Chowki": {
+    "lat": 24.9584955,
+    "lon": 66.9815362
+  },
+  "Police Station": {
+    "lat": 24.923289,
+    "lon": 67.1474984
+  },
+  "Police Training School": {
+    "lat": null,
+    "lon": null
+  },
+  "Polictechnic College": {
+    "lat": null,
+    "lon": null
+  },
+  "Politechnical": {
+    "lat": null,
+    "lon": null
+  },
+  "Polytechnic": {
+    "lat": 24.8407491,
+    "lon": 67.1935678
+  },
+  "Polytechnic college": {
+    "lat": 24.9264278,
+    "lon": 67.0288682
+  },
+  "Post Office": {
+    "lat": 24.8611085,
+    "lon": 67.0169416
+  },
+  "Postoffice": {
+    "lat": null,
+    "lon": null
+  },
+  "Power House": {
+    "lat": 24.9510446,
+    "lon": 67.0750685
+  },
+  "Power House Road": {
+    "lat": 24.9510446,
+    "lon": 67.0750685
+  },
+  "Power house": {
+    "lat": 24.9857105,
+    "lon": 67.0656828
+  },
+  "Preedt Street": {
+    "lat": null,
+    "lon": null
+  },
+  "Preedy Station": {
+    "lat": 24.861877,
+    "lon": 67.0216111
+  },
+  "Preedy Street": {
+    "lat": 24.8618265,
+    "lon": 67.022396
+  },
+  "Preedy street": {
+    "lat": 24.8618265,
+    "lon": 67.022396
+  },
+  "Prehmat Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Pretam das Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Prince Street": {
+    "lat": 24.8780788,
+    "lon": 67.0274742
+  },
+  "Punjab Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Punjab Colony": {
+    "lat": 24.830219,
+    "lon": 67.0466072
+  },
+  "Punjabi Club": {
+    "lat": null,
+    "lon": null
+  },
+  "Purana Golimar": {
+    "lat": null,
+    "lon": null
+  },
+  "Purana Truck Stand": {
+    "lat": null,
+    "lon": null
+  },
+  "Purana golimar garden": {
+    "lat": null,
+    "lon": null
+  },
+  "Purani Golimar": {
+    "lat": null,
+    "lon": null
+  },
+  "Purani Numaish": {
+    "lat": null,
+    "lon": null
+  },
+  "Purani haji camp": {
+    "lat": null,
+    "lon": null
+  },
+  "Purani numaish": {
+    "lat": null,
+    "lon": null
+  },
+  "Purran Hagi Camp": {
+    "lat": null,
+    "lon": null
+  },
+  "Pushtoonabad": {
+    "lat": null,
+    "lon": null
+  },
+  "Qabail Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Qabrustan": {
+    "lat": 24.9452917,
+    "lon": 67.1086091
+  },
+  "Qadafi Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Qalandari Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Qalandaria Chowk": {
+    "lat": 24.9595578,
+    "lon": 67.0500548
+  },
+  "Qalandri Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Qalandria Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Qamar House": {
+    "lat": null,
+    "lon": null
+  },
+  "Qamar house": {
+    "lat": null,
+    "lon": null
+  },
+  "Qasba Colony": {
+    "lat": 24.9421426,
+    "lon": 67.0237121
+  },
+  "Qasba Mour": {
+    "lat": null,
+    "lon": null
+  },
+  "Qasba mor": {
+    "lat": 24.9390864,
+    "lon": 67.0192293
+  },
+  "Qasim Ali Shah": {
+    "lat": 24.925733,
+    "lon": 66.938856
+  },
+  "Qater hospital": {
+    "lat": null,
+    "lon": null
+  },
+  "Qattar Hospital": {
+    "lat": null,
+    "lon": null
+  },
+  "Qauidabad": {
+    "lat": null,
+    "lon": null
+  },
+  "Qayumabad": {
+    "lat": 24.82743,
+    "lon": 67.0785584
+  },
+  "Qayyum Abad": {
+    "lat": 24.8250587,
+    "lon": 67.080973
+  },
+  "Qayyumabad": {
+    "lat": 24.829419,
+    "lon": 67.080768
+  },
+  "Qazafi Town": {
+    "lat": 24.849501,
+    "lon": 67.225506
+  },
+  "Qazzafi Town": {
+    "lat": 24.8225939,
+    "lon": 67.0459641
+  },
+  "Quaid-e-Azam Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Quaid-e-azam society": {
+    "lat": null,
+    "lon": null
+  },
+  "Quaidabad": {
+    "lat": 24.8551282,
+    "lon": 67.2117445
+  },
+  "Quaidabad Railway Station": {
+    "lat": null,
+    "lon": null
+  },
+  "Quaters": {
+    "lat": 24.8651143,
+    "lon": 67.0220967
+  },
+  "Quetta Lane": {
+    "lat": 24.9136705,
+    "lon": 67.1206804
+  },
+  "Qureshi hotel": {
+    "lat": 24.9660172,
+    "lon": 67.0673942
+  },
+  "Quyumabad": {
+    "lat": null,
+    "lon": null
+  },
+  "Quyumabad Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Qyub Manzil": {
+    "lat": null,
+    "lon": null
+  },
+  "R.C.D Highway": {
+    "lat": null,
+    "lon": null
+  },
+  "R.T.A Office": {
+    "lat": null,
+    "lon": null
+  },
+  "Rabi City": {
+    "lat": null,
+    "lon": null
+  },
+  "Rabia City": {
+    "lat": 24.9083967,
+    "lon": 67.130701
+  },
+  "Raca course": {
+    "lat": null,
+    "lon": null
+  },
+  "Race course": {
+    "lat": 24.8372252,
+    "lon": 67.0414493
+  },
+  "Radio pakistan": {
+    "lat": 24.8602855,
+    "lon": 67.0184288
+  },
+  "Raees Amrohi Colony": {
+    "lat": 24.9609285,
+    "lon": 66.9743851
+  },
+  "Rafi Bunglows": {
+    "lat": null,
+    "lon": null
+  },
+  "Rafiq Shaheed Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Rafique Shaheed Road": {
+    "lat": 24.8547322,
+    "lon": 67.0389388
+  },
+  "Rahimabad": {
+    "lat": 24.8228509,
+    "lon": 67.153982
+  },
+  "Rahmat Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Rahri Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Railway Phatak": {
+    "lat": null,
+    "lon": null
+  },
+  "Railway Stadium": {
+    "lat": null,
+    "lon": null
+  },
+  "Rais Amrohvi Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Raja Ghazanfar Ali Road": {
+    "lat": 24.8608418,
+    "lon": 67.0283849
+  },
+  "Ram Swami": {
+    "lat": null,
+    "lon": null
+  },
+  "Ramswami": {
+    "lat": 24.8686581,
+    "lon": 67.0151187
+  },
+  "Ranchore": {
+    "lat": 24.8627133,
+    "lon": 67.0139922
+  },
+  "Ranchore Lane": {
+    "lat": 24.8732236,
+    "lon": 67.0139419
+  },
+  "Ranchore line": {
+    "lat": 24.8647589,
+    "lon": 67.0233135
+  },
+  "Ranchore lines": {
+    "lat": 24.8627133,
+    "lon": 67.0139922
+  },
+  "Ranchori line": {
+    "lat": null,
+    "lon": null
+  },
+  "Rashd Minhas Road": {
+    "lat": 24.9271401,
+    "lon": 67.0906129
+  },
+  "Rasheed Textile Mills": {
+    "lat": null,
+    "lon": null
+  },
+  "Rasheed Turabi Road": {
+    "lat": 24.9259883,
+    "lon": 67.0484889
+  },
+  "Rasheedabad": {
+    "lat": 24.9046171,
+    "lon": 66.9718418
+  },
+  "Rashid Minhas": {
+    "lat": 24.9233205,
+    "lon": 67.0920458
+  },
+  "Rashid Minhas Road": {
+    "lat": 24.9093985,
+    "lon": 67.1077405
+  },
+  "Rashid minhas Road": {
+    "lat": 24.9093985,
+    "lon": 67.1077405
+  },
+  "Rashidabad": {
+    "lat": null,
+    "lon": null
+  },
+  "Rashidabad No 2": {
+    "lat": null,
+    "lon": null
+  },
+  "Ravechand Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Razakabad": {
+    "lat": null,
+    "lon": null
+  },
+  "Razi B.B Member Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Raziqabad": {
+    "lat": null,
+    "lon": null
+  },
+  "Regal": {
+    "lat": 24.860555,
+    "lon": 67.02475
+  },
+  "Regal Chowk": {
+    "lat": 24.8604633,
+    "lon": 67.0244318
+  },
+  "Regal Cinema": {
+    "lat": null,
+    "lon": null
+  },
+  "Regent Plaza": {
+    "lat": 24.8548693,
+    "lon": 67.0401855
+  },
+  "Rehmania Town": {
+    "lat": 24.8844173,
+    "lon": 67.1598842
+  },
+  "Rehri": {
+    "lat": 24.8158871,
+    "lon": 67.2281223
+  },
+  "Rehri Goth": {
+    "lat": 24.8158871,
+    "lon": 67.2281223
+  },
+  "Rehri Road": {
+    "lat": 24.8262605,
+    "lon": 67.2247636
+  },
+  "Reta Plot": {
+    "lat": 24.8866974,
+    "lon": 67.1464556
+  },
+  "Rexer Lines": {
+    "lat": null,
+    "lon": null
+  },
+  "Royal Stop": {
+    "lat": null,
+    "lon": null
+  },
+  "Rubby Cinema": {
+    "lat": null,
+    "lon": null
+  },
+  "Rubi Cinema": {
+    "lat": null,
+    "lon": null
+  },
+  "Ruby Cinema": {
+    "lat": null,
+    "lon": null
+  },
+  "Ruby Turn": {
+    "lat": null,
+    "lon": null
+  },
+  "Ruby cinema": {
+    "lat": null,
+    "lon": null
+  },
+  "Rustam Goth": {
+    "lat": 24.9729547,
+    "lon": 66.9924269
+  },
+  "S.I.T.E": {
+    "lat": 24.9373755,
+    "lon": 67.0524375
+  },
+  "S.I.T.E Police Station": {
+    "lat": null,
+    "lon": null
+  },
+  "S.M college": {
+    "lat": 24.9189681,
+    "lon": 67.0849428
+  },
+  "S.M.C.H.S": {
+    "lat": null,
+    "lon": null
+  },
+  "SASSI Hospital": {
+    "lat": null,
+    "lon": null
+  },
+  "SESSI Hospital": {
+    "lat": 24.8338742,
+    "lon": 67.2257119
+  },
+  "SITE": {
+    "lat": 24.9424413,
+    "lon": 67.1403632
+  },
+  "Sa": {
+    "lat": 24.8546842,
+    "lon": 67.0207055
+  },
+  "Saadi Town": {
+    "lat": 24.9676249,
+    "lon": 67.1721202
+  },
+  "Saba Akhtar Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Saba Cinema": {
+    "lat": 24.9867486,
+    "lon": 67.0857887
+  },
+  "Saba cinema": {
+    "lat": 24.9867486,
+    "lon": 67.0857887
+  },
+  "Sabil Wali Masjid": {
+    "lat": null,
+    "lon": null
+  },
+  "Sabilwala Mosque": {
+    "lat": null,
+    "lon": null
+  },
+  "Sabilwali Masjid": {
+    "lat": null,
+    "lon": null
+  },
+  "Sabzi MAndi": {
+    "lat": 24.9983758,
+    "lon": 67.1577804
+  },
+  "Sabzi Mandi": {
+    "lat": 24.9983758,
+    "lon": 67.1577804
+  },
+  "Sabzi mandi": {
+    "lat": 24.9983758,
+    "lon": 67.1577804
+  },
+  "Sachal Goth": {
+    "lat": 24.9506569,
+    "lon": 67.1288595
+  },
+  "Sadar": {
+    "lat": 24.8605712,
+    "lon": 67.0317406
+  },
+  "Saddar": {
+    "lat": 24.8605712,
+    "lon": 67.0317406
+  },
+  "Saddi Garden Scheme No. 33": {
+    "lat": null,
+    "lon": null
+  },
+  "Saddi Town": {
+    "lat": null,
+    "lon": null
+  },
+  "Saeed Abad": {
+    "lat": 24.9360598,
+    "lon": 67.0267321
+  },
+  "Saeed Manzil": {
+    "lat": 24.840312,
+    "lon": 67.0177218
+  },
+  "Saeedabad": {
+    "lat": 24.879299,
+    "lon": 66.999896
+  },
+  "Saeedabad Sector 4": {
+    "lat": 24.9115144,
+    "lon": 66.968816
+  },
+  "Safari Park": {
+    "lat": 24.9205008,
+    "lon": 67.1114464
+  },
+  "Safoora Goth": {
+    "lat": 24.9392946,
+    "lon": 67.1561264
+  },
+  "Safoora goth": {
+    "lat": 24.9392946,
+    "lon": 67.1561264
+  },
+  "Safora Goth": {
+    "lat": 24.9165236,
+    "lon": 67.1338892
+  },
+  "Safura Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Safuran Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Saghir Centre": {
+    "lat": 24.9362457,
+    "lon": 67.0848215
+  },
+  "Saghirabad": {
+    "lat": null,
+    "lon": null
+  },
+  "Sahafi Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Saifee Technology College": {
+    "lat": null,
+    "lon": null
+  },
+  "Sailani Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Sakhi Centre": {
+    "lat": 24.8891611,
+    "lon": 66.9850134
+  },
+  "Sakhi Hasan": {
+    "lat": 24.9557798,
+    "lon": 67.0547588
+  },
+  "Sakhi Hassan": {
+    "lat": null,
+    "lon": null
+  },
+  "Sakhi Hassan Nazimabad No. 7": {
+    "lat": null,
+    "lon": null
+  },
+  "Sakhi Hassan Road": {
+    "lat": 24.8864274,
+    "lon": 67.0043453
+  },
+  "Sakhi hasan": {
+    "lat": 24.9588863,
+    "lon": 67.0544298
+  },
+  "Sakhi hassan": {
+    "lat": 24.9593018,
+    "lon": 67.056327
+  },
+  "Saleem Centre": {
+    "lat": 24.9785003,
+    "lon": 67.0669892
+  },
+  "Saleh Mohammad Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Salim Centre": {
+    "lat": null,
+    "lon": null
+  },
+  "Samdani Hospital": {
+    "lat": 24.9215799,
+    "lon": 67.0882897
+  },
+  "Samdani hospital": {
+    "lat": 24.9215244,
+    "lon": 67.0882142
+  },
+  "Sangan Cinema": {
+    "lat": null,
+    "lon": null
+  },
+  "Sarwar Shaheed Road": {
+    "lat": 24.8547586,
+    "lon": 67.0250043
+  },
+  "Sarwar shaheed Road": {
+    "lat": 24.8547586,
+    "lon": 67.0250043
+  },
+  "Saudabad": {
+    "lat": 24.9010045,
+    "lon": 67.2033252
+  },
+  "Saudi Embassy": {
+    "lat": 24.8167137,
+    "lon": 67.051722
+  },
+  "Schon Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "School No. 3": {
+    "lat": 24.9576626,
+    "lon": 67.1478033
+  },
+  "School No. 4": {
+    "lat": 24.8669261,
+    "lon": 67.0482146
+  },
+  "Scout Colony": {
+    "lat": 24.9428021,
+    "lon": 67.0988568
+  },
+  "Sea View": {
+    "lat": 24.7909724,
+    "lon": 67.0426313
+  },
+  "Sector 1": {
+    "lat": 25.0275481,
+    "lon": 67.4274299
+  },
+  "Sector 10": {
+    "lat": 25.0184221,
+    "lon": 67.178063
+  },
+  "Sector 11-5": {
+    "lat": 25.0719513,
+    "lon": 67.1687713
+  },
+  "Sector 11-7": {
+    "lat": 25.0719513,
+    "lon": 67.1687713
+  },
+  "Sector 11-A": {
+    "lat": 24.9825417,
+    "lon": 67.0605863
+  },
+  "Sector 11-B": {
+    "lat": 24.9743885,
+    "lon": 67.0607682
+  },
+  "Sector 11-D": {
+    "lat": 24.9809239,
+    "lon": 67.0741921
+  },
+  "Sector 5-1": {
+    "lat": 25.0719513,
+    "lon": 67.1687713
+  },
+  "Sector 5-2": {
+    "lat": 25.0719513,
+    "lon": 67.1687713
+  },
+  "Sector 5-3": {
+    "lat": 25.0719513,
+    "lon": 67.1687713
+  },
+  "Sector 5-4": {
+    "lat": 25.0719513,
+    "lon": 67.1687713
+  },
+  "Sector 5-A": {
+    "lat": 25.0153102,
+    "lon": 67.443592
+  },
+  "Sector 5-B": {
+    "lat": 25.0193877,
+    "lon": 67.4391512
+  },
+  "Sector 5-B-1": {
+    "lat": 24.8858373,
+    "lon": 66.9028537
+  },
+  "Sector 5-B-4 New Karachi": {
+    "lat": 24.977526,
+    "lon": 67.0890925
+  },
+  "Sector 5-C": {
+    "lat": 25.0209785,
+    "lon": 67.4480944
+  },
+  "Sector 5-C-1": {
+    "lat": 25.0719513,
+    "lon": 67.1687713
+  },
+  "Sector 5-C-2": {
+    "lat": 25.0719513,
+    "lon": 67.1687713
+  },
+  "Sector 5-C-3": {
+    "lat": 25.0719513,
+    "lon": 67.1687713
+  },
+  "Sector 5-C/3": {
+    "lat": 25.0719513,
+    "lon": 67.1687713
+  },
+  "Sector 5-D": {
+    "lat": 25.0719513,
+    "lon": 67.1687713
+  },
+  "Sector 5-E nala": {
+    "lat": null,
+    "lon": null
+  },
+  "Sector 5-F": {
+    "lat": 25.0719513,
+    "lon": 67.1687713
+  },
+  "Sector 5-F Maidan New Karachi": {
+    "lat": null,
+    "lon": null
+  },
+  "Sector 5-K": {
+    "lat": 25.0719513,
+    "lon": 67.1687713
+  },
+  "Sector No 4": {
+    "lat": 25.0719513,
+    "lon": 67.1687713
+  },
+  "Sector No. 2 Majeed Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Security Printing Press": {
+    "lat": null,
+    "lon": null
+  },
+  "Sehrah Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Sessi Hospital": {
+    "lat": 24.8338742,
+    "lon": 67.2257119
+  },
+  "Sessi hospital": {
+    "lat": 24.8338742,
+    "lon": 67.2257119
+  },
+  "Seven Day Hospital": {
+    "lat": null,
+    "lon": null
+  },
+  "Shabnam Cinema": {
+    "lat": null,
+    "lon": null
+  },
+  "Shadman Town": {
+    "lat": 24.961012,
+    "lon": 67.0501852
+  },
+  "Shadman Town Qalandria Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Shafi Goth": {
+    "lat": 24.882999,
+    "lon": 67.0528171
+  },
+  "Shafi Mour": {
+    "lat": null,
+    "lon": null
+  },
+  "Shafiq Mills": {
+    "lat": null,
+    "lon": null
+  },
+  "Shafiq Mour": {
+    "lat": null,
+    "lon": null
+  },
+  "Shah Bhittai Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Shah Faisal Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Shah Faisal Colony No. 3": {
+    "lat": 24.8810955,
+    "lon": 67.145214
+  },
+  "Shah Faisal Railway Station": {
+    "lat": null,
+    "lon": null
+  },
+  "Shah Waliullah Road": {
+    "lat": 24.8635753,
+    "lon": 66.9891924
+  },
+  "Shah faisal Colony": {
+    "lat": 24.8810955,
+    "lon": 67.145214
+  },
+  "Shaharh-e-Quaideen": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahdibagh": {
+    "lat": null,
+    "lon": null
+  },
+  "Shaheed Complex": {
+    "lat": null,
+    "lon": null
+  },
+  "Shaheed millat Road": {
+    "lat": 24.8875579,
+    "lon": 67.0503208
+  },
+  "Shaheed-e- Millat Road": {
+    "lat": 24.8819785,
+    "lon": 67.0613975
+  },
+  "Shaheed-e-Milat Road": {
+    "lat": 24.880024,
+    "lon": 67.0637244
+  },
+  "Shaheed-e-Millat": {
+    "lat": 24.8336226,
+    "lon": 67.0809928
+  },
+  "Shaheed-e-Millat Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Shaheed-e-Millat Road": {
+    "lat": 24.8819785,
+    "lon": 67.0613975
+  },
+  "Shaheed-e-millat Road": {
+    "lat": 24.8819785,
+    "lon": 67.0613975
+  },
+  "Shaheen Complex": {
+    "lat": 24.8508147,
+    "lon": 67.0195102
+  },
+  "Shahra- e-Faisal": {
+    "lat": 24.8838184,
+    "lon": 67.1163915
+  },
+  "Shahra- e-Quaiden": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahra-e- Faisal": {
+    "lat": 24.8838184,
+    "lon": 67.1163915
+  },
+  "Shahra-e- Quaideen": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahra-e-Faisal": {
+    "lat": 24.8838184,
+    "lon": 67.1163915
+  },
+  "Shahra-e-Firdousi": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahra-e-Ghalib Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahra-e-Humayun": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahra-e-Iraq": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahra-e-Jam Sadiq Ali": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahra-e-Jehangir": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahra-e-Kamal Attaturk": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahra-e-Liaquat": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahra-e-Pakistan": {
+    "lat": 24.8838184,
+    "lon": 67.1163915
+  },
+  "Shahra-e-Quaideen": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahra-e-Quaiden": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahra-e-Quiadeen": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahra-e-Rasisal": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahra-e-Soori": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahrah Pakistan": {
+    "lat": 24.8528564,
+    "lon": 67.0176726
+  },
+  "Shahrah-e- Faisal": {
+    "lat": 24.8700183,
+    "lon": 67.0878386
+  },
+  "Shahrah-e- Iraq": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahrah-e- Qaideen": {
+    "lat": 24.8722487,
+    "lon": 67.0425178
+  },
+  "Shahrah-e- Quaideen": {
+    "lat": 24.8702752,
+    "lon": 67.0485639
+  },
+  "Shahrah-e- Quaidin": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahrah-e-Daruuloom": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahrah-e-Failsal": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahrah-e-Faisal": {
+    "lat": 24.8700183,
+    "lon": 67.0878386
+  },
+  "Shahrah-e-Galib": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahrah-e-Humayu": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahrah-e-Iraq": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahrah-e-Jamm Sadiq Ali": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahrah-e-Liaquat": {
+    "lat": 24.8599778,
+    "lon": 67.024847
+  },
+  "Shahrah-e-Millat Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahrah-e-Qu": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahrah-e-Quaideen": {
+    "lat": 24.8702752,
+    "lon": 67.0485639
+  },
+  "Shahrah-e-Wali Ullah Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahrah-e-iraq": {
+    "lat": null,
+    "lon": null
+  },
+  "Shahrah-e-liaquat": {
+    "lat": 24.8599778,
+    "lon": 67.024847
+  },
+  "Shahrah-e-qaideen": {
+    "lat": 24.8722487,
+    "lon": 67.0425178
+  },
+  "Shahrah-e-shershah soori Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Shara-e-Faisal": {
+    "lat": null,
+    "lon": null
+  },
+  "Sharafa Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Sharafi Goth": {
+    "lat": 24.8530492,
+    "lon": 67.187944
+  },
+  "Shareefa Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Sharshah": {
+    "lat": 24.8889958,
+    "lon": 66.9824542
+  },
+  "Sheed-e-Millat Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Sheeri jinnah College": {
+    "lat": null,
+    "lon": null
+  },
+  "Sher Shah": {
+    "lat": 24.8843625,
+    "lon": 66.9872422
+  },
+  "Sher Shah Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Sherpao Colony": {
+    "lat": 24.8356622,
+    "lon": 67.2094289
+  },
+  "Shershah": {
+    "lat": 24.8848987,
+    "lon": 66.9975502
+  },
+  "Shershah Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Shidi Village": {
+    "lat": null,
+    "lon": null
+  },
+  "Shipowner College": {
+    "lat": 24.9488618,
+    "lon": 67.0409069
+  },
+  "Shireen Jinnah Colony": {
+    "lat": 24.8173568,
+    "lon": 66.9957814
+  },
+  "Shireen jinnah Colony": {
+    "lat": 24.8173568,
+    "lon": 66.9957814
+  },
+  "Shirin Jinnah Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Shirin jinnah Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Sho Market": {
+    "lat": 24.9103736,
+    "lon": 67.0511764
+  },
+  "Shoe Market": {
+    "lat": 24.872303,
+    "lon": 67.0180107
+  },
+  "Shorab Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Siddiq Market": {
+    "lat": 24.864654,
+    "lon": 67.0047744
+  },
+  "Siddiq Wahab Road": {
+    "lat": 24.8645678,
+    "lon": 67.0047871
+  },
+  "Siemens Chowrangi": {
+    "lat": 24.9030999,
+    "lon": 67.0025873
+  },
+  "Sindh Goverment Hospital": {
+    "lat": 24.8757888,
+    "lon": 67.0479543
+  },
+  "Sindh Hotal": {
+    "lat": null,
+    "lon": null
+  },
+  "Sindhi Hotel": {
+    "lat": 24.9045237,
+    "lon": 67.0963339
+  },
+  "Sindhi Hotel New Karachi": {
+    "lat": null,
+    "lon": null
+  },
+  "Sindhi Muslim Society": {
+    "lat": 24.9784878,
+    "lon": 67.1196603
+  },
+  "Sindhi hotel": {
+    "lat": 24.9045237,
+    "lon": 67.0963339
+  },
+  "Sinfer Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Singer Area Road No. 13000": {
+    "lat": null,
+    "lon": null
+  },
+  "Singer Chowrangi": {
+    "lat": 24.8507452,
+    "lon": 67.1812931
+  },
+  "Sir Syed Town": {
+    "lat": 24.9701789,
+    "lon": 67.0581855
+  },
+  "Sir syed Town": {
+    "lat": 24.9701789,
+    "lon": 67.0581855
+  },
+  "Site": {
+    "lat": 24.9424413,
+    "lon": 67.1403632
+  },
+  "Site Police Station": {
+    "lat": 24.9068299,
+    "lon": 66.9968733
+  },
+  "Site Thana": {
+    "lat": null,
+    "lon": null
+  },
+  "Soceity": {
+    "lat": 24.8265519,
+    "lon": 67.1175814
+  },
+  "Social Security Hospital": {
+    "lat": 24.9479138,
+    "lon": 67.0059951
+  },
+  "Society": {
+    "lat": 24.9670243,
+    "lon": 67.1219726
+  },
+  "Society Graveyard": {
+    "lat": 24.850698,
+    "lon": 67.2436393
+  },
+  "Society Office": {
+    "lat": 24.9649857,
+    "lon": 67.1431899
+  },
+  "Society Office Goro Mandir": {
+    "lat": null,
+    "lon": null
+  },
+  "Society Qabristan": {
+    "lat": null,
+    "lon": null
+  },
+  "Society Qabrustan": {
+    "lat": null,
+    "lon": null
+  },
+  "Society office": {
+    "lat": 24.9649857,
+    "lon": 67.1431899
+  },
+  "Sohrab Goth": {
+    "lat": 24.9505443,
+    "lon": 67.0897399
+  },
+  "Sohrab goth": {
+    "lat": 24.9505443,
+    "lon": 67.0897399
+  },
+  "Soldier Bazar": {
+    "lat": 24.8766471,
+    "lon": 67.0311682
+  },
+  "South Napier Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Spencer Hospital": {
+    "lat": 24.862769,
+    "lon": 67.0023813
+  },
+  "Spensor Eye Hospital": {
+    "lat": null,
+    "lon": null
+  },
+  "St. Patrick High School": {
+    "lat": 24.8631455,
+    "lon": 67.0348298
+  },
+  "Stadium": {
+    "lat": 24.8952212,
+    "lon": 67.0816725
+  },
+  "Stadium Road": {
+    "lat": 24.8923257,
+    "lon": 67.0823986
+  },
+  "Star Centre": {
+    "lat": 24.9524979,
+    "lon": 67.0477688
+  },
+  "Star Gate": {
+    "lat": 24.8870129,
+    "lon": 67.1557701
+  },
+  "State Bank": {
+    "lat": 24.8488457,
+    "lon": 66.9995595
+  },
+  "State Bank Quarters": {
+    "lat": null,
+    "lon": null
+  },
+  "Station": {
+    "lat": 24.8501778,
+    "lon": 67.2124833
+  },
+  "Statte Bank": {
+    "lat": null,
+    "lon": null
+  },
+  "Steel Town": {
+    "lat": 24.8691966,
+    "lon": 67.3381208
+  },
+  "Stop No 4": {
+    "lat": 24.9104807,
+    "lon": 67.2245414
+  },
+  "Street 26": {
+    "lat": 24.797467,
+    "lon": 67.0505058
+  },
+  "Stretchen Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Studium": {
+    "lat": null,
+    "lon": null
+  },
+  "Subzi mandi": {
+    "lat": 24.998698,
+    "lon": 67.1584939
+  },
+  "Sufari Park": {
+    "lat": null,
+    "lon": null
+  },
+  "Sui Gas Terminus": {
+    "lat": null,
+    "lon": null
+  },
+  "Sujani Town": {
+    "lat": null,
+    "lon": null
+  },
+  "Sultan Masjid": {
+    "lat": 24.8457765,
+    "lon": 67.0713592
+  },
+  "Sultanabad": {
+    "lat": 24.8418221,
+    "lon": 67.0185108
+  },
+  "Sultanabad Chowrang": {
+    "lat": null,
+    "lon": null
+  },
+  "Sumdani Hospital": {
+    "lat": null,
+    "lon": null
+  },
+  "Sunset Blvd": {
+    "lat": 24.8300592,
+    "lon": 67.0537547
+  },
+  "Sunset Boulevard": {
+    "lat": 24.8304877,
+    "lon": 67.0558657
+  },
+  "Sunset Bulevard": {
+    "lat": null,
+    "lon": null
+  },
+  "Sunset Bulivard": {
+    "lat": null,
+    "lon": null
+  },
+  "Sunset Bulyard": {
+    "lat": null,
+    "lon": null
+  },
+  "Sunset blvd": {
+    "lat": 24.8304877,
+    "lon": 67.0558657
+  },
+  "Super Highway": {
+    "lat": 24.9848011,
+    "lon": 67.237952
+  },
+  "Super Market": {
+    "lat": 24.9043845,
+    "lon": 67.0478953
+  },
+  "Super Market (Near Maymar Flats)": {
+    "lat": null,
+    "lon": null
+  },
+  "Surjani": {
+    "lat": 25.0332889,
+    "lon": 67.0610676
+  },
+  "Surjani Chowrangi": {
+    "lat": 25.0061761,
+    "lon": 67.0641277
+  },
+  "Surjani K.D.A Office": {
+    "lat": null,
+    "lon": null
+  },
+  "Surjani Roundabout": {
+    "lat": null,
+    "lon": null
+  },
+  "Surjani Sector 4": {
+    "lat": 25.0253824,
+    "lon": 67.0649138
+  },
+  "Surjani Sector 5-D": {
+    "lat": 25.0374455,
+    "lon": 67.062956
+  },
+  "Surjani Sector 7": {
+    "lat": 25.0253824,
+    "lon": 67.0649138
+  },
+  "Surjani Town": {
+    "lat": 25.0770299,
+    "lon": 67.073576
+  },
+  "Surjani Town No. 1": {
+    "lat": 25.0278591,
+    "lon": 67.0552094
+  },
+  "Surjani Town No. 2": {
+    "lat": 25.0278591,
+    "lon": 67.0552094
+  },
+  "Surjani Town No. 3": {
+    "lat": 25.0190981,
+    "lon": 67.0696193
+  },
+  "Surjani Town No. 4": {
+    "lat": 25.0078575,
+    "lon": 67.0577811
+  },
+  "Surjani Town No. 5": {
+    "lat": 25.0190981,
+    "lon": 67.0696193
+  },
+  "Surjani Town No. 6": {
+    "lat": 25.0278591,
+    "lon": 67.0552094
+  },
+  "Surjani Town Sector 10": {
+    "lat": 25.0462666,
+    "lon": 67.0680607
+  },
+  "Surjani Town Sector 10-V": {
+    "lat": 25.0462666,
+    "lon": 67.0680607
+  },
+  "Surjani Town Sector 11": {
+    "lat": 25.0456025,
+    "lon": 67.0568894
+  },
+  "Surjani Town Sector 5-A/2": {
+    "lat": 25.0225104,
+    "lon": 67.0554431
+  },
+  "Surjani Town Sector 5-A/3": {
+    "lat": 25.0225104,
+    "lon": 67.0554431
+  },
+  "Surjani Town Sector 5-A/4": {
+    "lat": 25.0225104,
+    "lon": 67.0554431
+  },
+  "Surjani Town Sector 7": {
+    "lat": 25.0327889,
+    "lon": 67.0689682
+  },
+  "Surjani Town Sector 7-D": {
+    "lat": 25.0366138,
+    "lon": 67.0717815
+  },
+  "Surjani Town Sector 8": {
+    "lat": 25.0330519,
+    "lon": 67.0804686
+  },
+  "Surjani Town Sector 9": {
+    "lat": 25.0465146,
+    "lon": 67.0778819
+  },
+  "Swana City": {
+    "lat": null,
+    "lon": null
+  },
+  "Swat Colony": {
+    "lat": 24.9122576,
+    "lon": 66.9578909
+  },
+  "Sweeper Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "T&T Department": {
+    "lat": 24.8647811,
+    "lon": 67.020555
+  },
+  "T.V Station": {
+    "lat": null,
+    "lon": null
+  },
+  "Tahir Saifuddin Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Taj Hotel": {
+    "lat": 24.9257338,
+    "lon": 67.0638133
+  },
+  "Taj Mahal Hotel": {
+    "lat": null,
+    "lon": null
+  },
+  "Taj Silk Mill": {
+    "lat": null,
+    "lon": null
+  },
+  "Taj hotel": {
+    "lat": 24.9257338,
+    "lon": 67.0638133
+  },
+  "Talpur Road": {
+    "lat": 24.8797795,
+    "lon": 67.0245053
+  },
+  "Tanki": {
+    "lat": 24.8982949,
+    "lon": 67.0179347
+  },
+  "Tanki No. 4": {
+    "lat": 24.8982949,
+    "lon": 67.0179347
+  },
+  "Tanver Mahal Cinema": {
+    "lat": null,
+    "lon": null
+  },
+  "Tarachand Road": {
+    "lat": 24.821682,
+    "lon": 66.9843499
+  },
+  "Tariq": {
+    "lat": 24.8238647,
+    "lon": 67.0377091
+  },
+  "Tariq Road": {
+    "lat": 24.8655388,
+    "lon": 67.0560745
+  },
+  "Tariq Road Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Tasweer Mahal": {
+    "lat": null,
+    "lon": null
+  },
+  "Tasweer mahal": {
+    "lat": null,
+    "lon": null
+  },
+  "Teen Hati": {
+    "lat": null,
+    "lon": null
+  },
+  "Teen Hatti": {
+    "lat": 24.8932027,
+    "lon": 67.0438165
+  },
+  "Teen Talwar": {
+    "lat": 24.8338179,
+    "lon": 67.033666
+  },
+  "Teen hatti": {
+    "lat": 24.8932027,
+    "lon": 67.0438165
+  },
+  "Telephone Exchange": {
+    "lat": 24.8719004,
+    "lon": 67.3596871
+  },
+  "Terminal Building": {
+    "lat": 24.8350316,
+    "lon": 66.9737938
+  },
+  "Terminal No. 4": {
+    "lat": 24.8794368,
+    "lon": 67.3042046
+  },
+  "Thal Ram Khimchand Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Thana ajmer nagri": {
+    "lat": null,
+    "lon": null
+  },
+  "Thorani goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Tibbet Centre": {
+    "lat": null,
+    "lon": null
+  },
+  "Tibet Building": {
+    "lat": null,
+    "lon": null
+  },
+  "Tibet Centre": {
+    "lat": 24.862842,
+    "lon": 67.0219172
+  },
+  "Tibet Market": {
+    "lat": 24.862842,
+    "lon": 67.0219172
+  },
+  "Tin Hatti": {
+    "lat": null,
+    "lon": null
+  },
+  "Tinhatti": {
+    "lat": null,
+    "lon": null
+  },
+  "Tokyo Terrace Plaza": {
+    "lat": null,
+    "lon": null
+  },
+  "Tooba Masjid": {
+    "lat": 24.8432788,
+    "lon": 67.0541319
+  },
+  "Tool Factory": {
+    "lat": 24.8394175,
+    "lon": 67.2532666
+  },
+  "Torri Chowk Sector II": {
+    "lat": null,
+    "lon": null
+  },
+  "Tower": {
+    "lat": 24.8487556,
+    "lon": 66.9966678
+  },
+  "Tower Keamari": {
+    "lat": 24.8476897,
+    "lon": 66.9901492
+  },
+  "Town Chowrangi": {
+    "lat": 24.8427736,
+    "lon": 67.1331305
+  },
+  "Traffic Police Kiask": {
+    "lat": null,
+    "lon": null
+  },
+  "Trauma Centre": {
+    "lat": 24.8602731,
+    "lon": 67.0111174
+  },
+  "Two Minites stop": {
+    "lat": null,
+    "lon": null
+  },
+  "Two Minute Chowrangi": {
+    "lat": 24.999951,
+    "lon": 67.0647097
+  },
+  "Two Minutes Chowrangi": {
+    "lat": null,
+    "lon": null
+  },
+  "Two Talwar": {
+    "lat": null,
+    "lon": null
+  },
+  "Two minites stop": {
+    "lat": null,
+    "lon": null
+  },
+  "Two minutes stop": {
+    "lat": null,
+    "lon": null
+  },
+  "U.P Mour": {
+    "lat": null,
+    "lon": null
+  },
+  "U.P Soceity": {
+    "lat": null,
+    "lon": null
+  },
+  "U.P Society": {
+    "lat": 24.8370623,
+    "lon": 67.1699979
+  },
+  "U.P Society. U.P Mour": {
+    "lat": null,
+    "lon": null
+  },
+  "U.P mor": {
+    "lat": null,
+    "lon": null
+  },
+  "U.P society": {
+    "lat": 24.8370623,
+    "lon": 67.1699979
+  },
+  "United Printing": {
+    "lat": null,
+    "lon": null
+  },
+  "University": {
+    "lat": 24.923854,
+    "lon": 67.062084
+  },
+  "University Road": {
+    "lat": 24.9391194,
+    "lon": 67.1565359
+  },
+  "Univesity": {
+    "lat": null,
+    "lon": null
+  },
+  "Up More": {
+    "lat": null,
+    "lon": null
+  },
+  "Urdu Chowk": {
+    "lat": 24.8480645,
+    "lon": 67.1976662
+  },
+  "Urdu College": {
+    "lat": 24.9130813,
+    "lon": 67.0912676
+  },
+  "Urdu Science Collage": {
+    "lat": null,
+    "lon": null
+  },
+  "Urdu Science College": {
+    "lat": null,
+    "lon": null
+  },
+  "Valika": {
+    "lat": 24.9033098,
+    "lon": 66.9919873
+  },
+  "Valika Hospital": {
+    "lat": 24.9272234,
+    "lon": 67.0155671
+  },
+  "Valika Mill": {
+    "lat": null,
+    "lon": null
+  },
+  "Valika Mills": {
+    "lat": null,
+    "lon": null
+  },
+  "Valika hospital": {
+    "lat": 24.9272234,
+    "lon": 67.0155671
+  },
+  "Valika mills": {
+    "lat": null,
+    "lon": null
+  },
+  "Valika stop": {
+    "lat": null,
+    "lon": null
+  },
+  "Valikaa mills": {
+    "lat": null,
+    "lon": null
+  },
+  "W.F Mour": {
+    "lat": null,
+    "lon": null
+  },
+  "Wahadat Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "Walika Hospital": {
+    "lat": null,
+    "lon": null
+  },
+  "Washail Bagh": {
+    "lat": null,
+    "lon": null
+  },
+  "Water Pump": {
+    "lat": 24.874899,
+    "lon": 67.1673
+  },
+  "Wazir Mansion": {
+    "lat": 24.850975,
+    "lon": 66.9975314
+  },
+  "Wazir mansion": {
+    "lat": 24.850975,
+    "lon": 66.9975314
+  },
+  "Wellington Street": {
+    "lat": 24.8588422,
+    "lon": 67.0316405
+  },
+  "Wellington street": {
+    "lat": 24.8588422,
+    "lon": 67.0316405
+  },
+  "West Warf": {
+    "lat": 24.849762,
+    "lon": 66.9832041
+  },
+  "West Wharaf Road": {
+    "lat": null,
+    "lon": null
+  },
+  "West Wharf": {
+    "lat": 24.8467111,
+    "lon": 66.9838167
+  },
+  "West Wharf Road": {
+    "lat": 24.8491523,
+    "lon": 66.9818869
+  },
+  "West wharf": {
+    "lat": 24.8467111,
+    "lon": 66.9838167
+  },
+  "Willayat Ali shah": {
+    "lat": null,
+    "lon": null
+  },
+  "Wood Street": {
+    "lat": 24.8472725,
+    "lon": 67.0024408
+  },
+  "Wood street": {
+    "lat": 24.8472725,
+    "lon": 67.0024408
+  },
+  "Yaqoobabad": {
+    "lat": 24.9707991,
+    "lon": 66.9735874
+  },
+  "Yasinabad": {
+    "lat": 24.9202282,
+    "lon": 67.0759779
+  },
+  "Yasinabad Alliaabad": {
+    "lat": null,
+    "lon": null
+  },
+  "Yosuf Goth": {
+    "lat": null,
+    "lon": null
+  },
+  "Yousuf goth": {
+    "lat": 24.8602104,
+    "lon": 67.258722
+  },
+  "Z.M.C stop": {
+    "lat": null,
+    "lon": null
+  },
+  "Zafar House": {
+    "lat": 24.8255563,
+    "lon": 67.1718219
+  },
+  "Zam Zam Chowk": {
+    "lat": 24.865663,
+    "lon": 67.0186304
+  },
+  "Zam zam Chowk No 4": {
+    "lat": null,
+    "lon": null
+  },
+  "Zero Mile": {
+    "lat": null,
+    "lon": null
+  },
+  "Zia Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "Zia Colony": {
+    "lat": 24.9176941,
+    "lon": 67.079836
+  },
+  "Zia-ul-Haq Colony": {
+    "lat": 24.9209167,
+    "lon": 67.0810916
+  },
+  "Ziauddin Hospital": {
+    "lat": 24.8175605,
+    "lon": 67.0074173
+  },
+  "Ziauddin Road": {
+    "lat": 24.8520382,
+    "lon": 67.0186126
+  },
+  "Ziaudin Ahmed Road": {
+    "lat": null,
+    "lon": null
+  },
+  "Ziaul Haq Colony": {
+    "lat": null,
+    "lon": null
+  },
+  "ddabad": {
+    "lat": null,
+    "lon": null
+  },
+  "frere Road": {
+    "lat": 24.857678,
+    "lon": 67.0312036
+  },
+  "gulshan-e-bihar": {
+    "lat": 24.8875579,
+    "lon": 67.0503208
+  },
+  "habib bank": {
+    "lat": 24.8538917,
+    "lon": 67.003892
+  },
+  "hyderi": {
+    "lat": 24.9390175,
+    "lon": 66.9946574
+  },
+  "jail Road": {
+    "lat": 24.8927806,
+    "lon": 67.0543393
+  },
+  "karimabad": {
+    "lat": 24.9195535,
+    "lon": 67.0556807
+  },
+  "labour Square": {
+    "lat": 24.9043422,
+    "lon": 66.9835094
+  },
+  "lucky star": {
+    "lat": 24.8380156,
+    "lon": 67.1729025
+  },
+  "naiabadi": {
+    "lat": null,
+    "lon": null
+  },
+  "nishter Road": {
+    "lat": 24.8885837,
+    "lon": 67.0330235
+  },
+  "orangi No 1": {
+    "lat": 24.9461056,
+    "lon": 67.0128813
+  },
+  "shah faisal Chowk": {
+    "lat": null,
+    "lon": null
+  },
+  "shershah": {
+    "lat": 24.8848987,
+    "lon": 66.9975502
+  },
+  "statin": {
+    "lat": null,
+    "lon": null
+  }
+}
