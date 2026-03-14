@@ -50,6 +50,10 @@ karachi-bus-finder/
 │   └── bus_graph.pkl            
 └── requirements.txt
 ```
+## Demo
+
+Watch the project preview video on YouTube:  
+[Demo Video](https://youtu.be/tqSamW4MKg0)
 
 ---
 
